@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" font-family="Inter, DejaVu Sans, sans-serif">
+<rect width="1200" height="620" fill="#fcfcfb"/>
+<text x="30" y="40" font-size="20" font-weight="700" fill="#0b0b0b">Ligações do ESP32 (projeto Wokwi: src/esp32/wokwi/diagram.json)</text>
+<text x="30" y="64" font-size="13" fill="#52514e">Diagrama de referência gerado a partir do diagram.json. Os potenciômetros são entradas virtuais que representam sinais do veículo.</text>
+<rect x="490" y="120" width="220" height="430" rx="14" fill="#1a1a19"/>
+<text x="600" y="150" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">ESP32 DevKit C</text>
+<text x="600" y="172" text-anchor="middle" font-size="12" fill="#c3c2b7">3V3 e GND nos sensores</text>
+<rect x="60" y="190" width="330" height="40" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<text x="75" y="215" font-size="13" fill="#0b0b0b">Potenciômetro: velocidade</text>
+<line x1="390" y1="210" x2="490" y2="210" stroke="#2a78d6" stroke-width="2.5"/>
+<text x="500" y="215" font-size="12" fill="#ffffff">GPIO34</text>
+<rect x="60" y="248" width="330" height="40" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<text x="75" y="273" font-size="13" fill="#0b0b0b">Potenciômetro: rotação (RPM)</text>
+<line x1="390" y1="268" x2="490" y2="268" stroke="#2a78d6" stroke-width="2.5"/>
+<text x="500" y="273" font-size="12" fill="#ffffff">GPIO35</text>
+<rect x="60" y="306" width="330" height="40" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<text x="75" y="331" font-size="13" fill="#0b0b0b">Potenciômetro: temperatura do motor</text>
+<line x1="390" y1="326" x2="490" y2="326" stroke="#2a78d6" stroke-width="2.5"/>
+<text x="500" y="331" font-size="12" fill="#ffffff">GPIO32</text>
+<rect x="60" y="364" width="330" height="40" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<text x="75" y="389" font-size="13" fill="#0b0b0b">Potenciômetro deslizante: nível de combustível</text>
+<line x1="390" y1="384" x2="490" y2="384" stroke="#2a78d6" stroke-width="2.5"/>
+<text x="500" y="389" font-size="12" fill="#ffffff">GPIO33</text>
+<rect x="60" y="422" width="330" height="40" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+<text x="75" y="447" font-size="13" fill="#0b0b0b">Botão Modo (SENSORES / ROTEIRO)</text>
+<line x1="390" y1="442" x2="490" y2="442" stroke="#52514e" stroke-width="2.5"/>
+<text x="500" y="447" font-size="12" fill="#ffffff">GPIO4</text>
+<rect x="60" y="480" width="330" height="40" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+<text x="75" y="505" font-size="13" fill="#0b0b0b">Botão Veículo (troca o perfil)</text>
+<line x1="390" y1="500" x2="490" y2="500" stroke="#52514e" stroke-width="2.5"/>
+<text x="500" y="505" font-size="12" fill="#ffffff">GPIO5</text>
+<rect x="810" y="220" width="330" height="40" rx="8" fill="#ffffff" stroke="#0ca30c" stroke-width="2"/>
+<circle cx="830" cy="240" r="7" fill="#0ca30c"/>
+<text x="845" y="245" font-size="13" fill="#0b0b0b">LED verde: NORMAL (220 Ω)</text>
+<line x1="710" y1="240" x2="810" y2="240" stroke="#0ca30c" stroke-width="2.5"/>
+<text x="700" y="245" text-anchor="end" font-size="12" fill="#ffffff">GPIO25</text>
+<rect x="810" y="290" width="330" height="40" rx="8" fill="#ffffff" stroke="#eda100" stroke-width="2"/>
+<circle cx="830" cy="310" r="7" fill="#eda100"/>
+<text x="845" y="315" font-size="13" fill="#0b0b0b">LED amarelo: ATENÇÃO (220 Ω)</text>
+<line x1="710" y1="310" x2="810" y2="310" stroke="#eda100" stroke-width="2.5"/>
+<text x="700" y="315" text-anchor="end" font-size="12" fill="#ffffff">GPIO26</text>
+<rect x="810" y="360" width="330" height="40" rx="8" fill="#ffffff" stroke="#d03b3b" stroke-width="2"/>
+<circle cx="830" cy="380" r="7" fill="#d03b3b"/>
+<text x="845" y="385" font-size="13" fill="#0b0b0b">LED vermelho: CRÍTICO (220 Ω)</text>
+<line x1="710" y1="380" x2="810" y2="380" stroke="#d03b3b" stroke-width="2.5"/>
+<text x="700" y="385" text-anchor="end" font-size="12" fill="#ffffff">GPIO27</text>
+<rect x="810" y="430" width="330" height="40" rx="8" fill="#ffffff" stroke="#6250d6" stroke-width="2"/>
+<circle cx="830" cy="450" r="7" fill="#6250d6"/>
+<text x="845" y="455" font-size="13" fill="#0b0b0b">Buzzer: alerta crítico</text>
+<line x1="710" y1="450" x2="810" y2="450" stroke="#6250d6" stroke-width="2.5"/>
+<text x="700" y="455" text-anchor="end" font-size="12" fill="#ffffff">GPIO14</text>
+<text x="30" y="600" font-size="12" fill="#6f6e69">Monitor Serial a 115200 baud: uma linha CSV por segundo (timestamp, veículo, competência, modo, velocidade, RPM, temperatura, combustível, alertas, status).</text>
+</svg>

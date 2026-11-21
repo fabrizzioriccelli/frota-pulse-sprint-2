@@ -1,0 +1,22 @@
+veiculo_id,meses,meses_consumo_ruim_real,meses_consumo_ruim_previstos,leitura_ml,nome_grupo,nivel_regras,indicador_decisivo,pior_gap_pct,gap_custo_km_pct,gap_km_l_pct,categoria_maior_gap,baixa_utilizacao,concordam,interpretacao
+B-V05,12,10,10,Condução ineficiente,Média mista (VUC),Atenção,custo por km,10.1485,10.1485,9.5485,COMBUSTIVEL,False,True,Concordam: desvio com componente de condução; investigar hábitos de direção e consumo
+B-V08,10,1,2,Condução dentro do padrão,Média mista (VUC),Eficiente,consumo (km/L),3.0450,-10.9517,3.0450,COMBUSTIVEL,False,True,Concordam: dentro da referência nas duas leituras
+B-V09,12,0,2,Condução dentro do padrão,Média mista (VUC),Eficiente,custo por km,4.3341,4.3341,-4.2017,MANUTENCAO,False,True,Concordam: dentro da referência nas duas leituras
+B-V12,12,0,0,Condução dentro do padrão,Média mista (caminhão toco),Atenção,custo por km,7.1141,7.1141,-2.6986,MANUTENCAO,False,False,"Divergem: as regras apontam desvio, mas a telemetria não mostra condução ruim; causa provável: custo de manutenção"
+B-V14,12,2,4,Condução dentro do padrão,Média mista (caminhão toco),Eficiente,consumo (km/L),1.2337,-3.8920,1.2337,OUTROS,False,True,Concordam: dentro da referência nas duas leituras
+B-V15,12,11,8,Condução ineficiente,Média mista (caminhão toco),Atenção,consumo (km/L),8.1046,-0.6860,8.1046,COMBUSTIVEL,False,True,Concordam: desvio com componente de condução; investigar hábitos de direção e consumo
+B-V20,12,0,1,Condução dentro do padrão,Média mista (caminhão toco),Eficiente,consumo (km/L),-5.6959,-8.4794,-5.6959,PEDAGIO,False,True,Concordam: dentro da referência nas duas leituras
+B-V23,12,1,0,Condução dentro do padrão,Leve mista (utilitário),Eficiente,consumo (km/L),-1.3400,-5.3571,-1.3400,MANUTENCAO,False,True,Concordam: dentro da referência nas duas leituras
+B-V29,12,2,0,Condução dentro do padrão,Leve mista (utilitário),Ineficiente,custo por km,112.2239,112.2239,1.0875,OUTROS,True,False,"Divergem: as regras apontam desvio, mas a telemetria não mostra condução ruim; causa provável: baixa utilização (custo fixo em poucos km)"
+C-V03,12,10,10,Condução ineficiente,Pesada rodoviária (cavalo mecânico),Atenção,consumo (km/L),7.1002,5.4396,7.1002,COMBUSTIVEL,False,True,Concordam: desvio com componente de condução; investigar hábitos de direção e consumo
+C-V06,12,0,2,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Eficiente,consumo (km/L),-7.6762,-11.8906,-7.6762,PEDAGIO,False,True,Concordam: dentro da referência nas duas leituras
+C-V11,12,0,0,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Eficiente,custo por km,-0.4811,-0.4811,-3.0025,MANUTENCAO,False,True,Concordam: dentro da referência nas duas leituras
+C-V12,12,0,0,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Eficiente,custo por km,-7.4895,-7.4895,-7.5786,MULTAS,False,True,Concordam: dentro da referência nas duas leituras
+C-V14,12,0,5,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Eficiente,custo por km,-4.4649,-4.4649,-8.7793,MANUTENCAO,False,True,Concordam: dentro da referência nas duas leituras
+C-V17,12,0,2,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Eficiente,custo por km,0.5244,0.5244,-13.6719,MANUTENCAO,False,True,Concordam: dentro da referência nas duas leituras
+C-V21,12,5,4,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Atenção,consumo (km/L),5.4306,4.1251,5.4306,COMBUSTIVEL,False,False,"Divergem: as regras apontam desvio, mas a telemetria não mostra condução ruim; causa provável: custo de combustível"
+C-V25,12,1,2,Condução dentro do padrão,Pesada rodoviária (cavalo mecânico),Eficiente,consumo (km/L),-0.4449,-3.9462,-0.4449,OUTROS,False,True,Concordam: dentro da referência nas duas leituras
+C-V30,12,11,7,Condução ineficiente,Pesada rodoviária (truck),Ineficiente,custo por km,15.6772,15.6772,12.7219,COMBUSTIVEL,False,True,Concordam: desvio com componente de condução; investigar hábitos de direção e consumo
+C-V31,12,0,1,Condução dentro do padrão,Pesada rodoviária (truck),Eficiente,consumo (km/L),-0.9889,-2.5723,-0.9889,MANUTENCAO,False,True,Concordam: dentro da referência nas duas leituras
+C-V33,12,12,11,Condução ineficiente,Pesada rodoviária (truck),Atenção,consumo (km/L),13.5779,8.3833,13.5779,COMBUSTIVEL,False,True,Concordam: desvio com componente de condução; investigar hábitos de direção e consumo
+C-V35,12,0,2,Condução dentro do padrão,Pesada rodoviária (truck),Eficiente,custo por km,-2.4759,-2.4759,-6.3603,IMPOSTOS,False,True,Concordam: dentro da referência nas duas leituras

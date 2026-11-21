@@ -1,0 +1,38 @@
+{
+  "descricao": "Massa de dados sintéticos do Frota Pulse (Sprint 1). Dados fictícios.",
+  "semente": 20260710,
+  "data_referencia_analise": "2026-07-10",
+  "periodos": {
+    "EMP-A": [
+      "2025-10",
+      "2026-03"
+    ],
+    "EMP-B": [
+      "2025-07",
+      "2026-06"
+    ],
+    "EMP-C": [
+      "2025-07",
+      "2026-06"
+    ]
+  },
+  "linhas_por_tabela": {
+    "empresas": 3,
+    "frotas": 3,
+    "categorias_veiculo": 6,
+    "veiculos": 78,
+    "uso_veiculo_mensal": 888,
+    "origens_dados": 463,
+    "despesas": 21656,
+    "abastecimentos": 7936,
+    "manutencoes": 770,
+    "pedagios": 12031,
+    "multas": 72,
+    "tributos": 560,
+    "seguros": 14,
+    "viagens": 3668
+  },
+  "cenarios_injetados": 34,
+  "formato": "CSV UTF-8, separador vírgula, decimal ponto, datas ISO 8601",
+  "gerador": "src/gerar_dados_sinteticos.py"
+}

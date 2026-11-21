@@ -1,0 +1,19 @@
+categoria,veiculo_id,grupo,valor_r_km,referencia_r_km,gap_r_km,gap_pct
+COMBUSTIVEL,C-V03,Pesada rodoviária (cavalo mecânico),2.8635,2.5469,0.3167,12.4335
+COMBUSTIVEL,C-V07,Pesada rodoviária (cavalo mecânico),2.8418,2.5469,0.2949,11.5791
+COMBUSTIVEL,C-V33,Pesada rodoviária (truck),1.9997,1.7203,0.2794,16.2429
+MANUTENCAO,C-V17,Pesada rodoviária (cavalo mecânico),1.1086,0.7347,0.3739,50.8863
+MANUTENCAO,B-V21,Média mista (caminhão toco),0.6985,0.3818,0.3167,82.9547
+MANUTENCAO,B-V11,Média mista (caminhão toco),0.6780,0.3818,0.2962,77.5831
+PEDAGIO,C-V07,Pesada rodoviária (cavalo mecânico),0.2480,0.1859,0.0621,33.3894
+PEDAGIO,C-V15,Pesada rodoviária (cavalo mecânico),0.2207,0.1859,0.0348,18.6959
+PEDAGIO,B-V07,Média mista (VUC),0.2086,0.1767,0.0319,18.0396
+MULTAS,B-V30,Leve mista (utilitário),0.1461,0.0126,0.1335,1056.4456
+MULTAS,B-V29,Leve mista (utilitário),0.1269,0.0126,0.1143,904.7945
+MULTAS,B-V28,Leve mista (utilitário),0.0614,0.0126,0.0487,385.6356
+IMPOSTOS,B-V28,Leve mista (utilitário),0.4137,0.0702,0.3434,488.9413
+IMPOSTOS,B-V29,Leve mista (utilitário),0.3440,0.0702,0.2738,389.8323
+IMPOSTOS,B-V30,Leve mista (utilitário),0.3062,0.0702,0.2360,336.0241
+OUTROS,B-V28,Leve mista (utilitário),1.8980,0.2865,1.6115,562.3972
+OUTROS,B-V29,Leve mista (utilitário),1.7659,0.2865,1.4794,516.3012
+OUTROS,B-V30,Leve mista (utilitário),1.2884,0.2865,1.0019,349.6590

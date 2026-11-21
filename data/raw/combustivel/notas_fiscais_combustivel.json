@@ -1,0 +1,405 @@
+{
+ "origem": "NF-e recebidas por e-mail",
+ "notas": [
+  {
+   "chave_nfe": "NF-F90A3E",
+   "id_lancamento": "DSP-C-009896",
+   "veiculo": "C-V12",
+   "emissao": "2026-05-23T13:25",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 410.67,
+   "valor_unitario": 6.105,
+   "valor_total": 2507.14
+  },
+  {
+   "chave_nfe": "NF-8C4A4E",
+   "id_lancamento": "DSP-C-009897",
+   "veiculo": "C-V04",
+   "emissao": "2026-05-01T18:23",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 385.51,
+   "valor_unitario": 6.071,
+   "valor_total": 2340.43
+  },
+  {
+   "chave_nfe": "NF-461731",
+   "id_lancamento": "DSP-C-009898",
+   "veiculo": "C-V37",
+   "emissao": "2025-11-10T09:43",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 202.73,
+   "valor_unitario": 6.182,
+   "valor_total": 1253.28
+  },
+  {
+   "chave_nfe": "NF-E56EB0",
+   "id_lancamento": "DSP-C-009899",
+   "veiculo": "C-V24",
+   "emissao": "2025-08-07T16:16",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 431.61,
+   "valor_unitario": 5.984,
+   "valor_total": 2582.75
+  },
+  {
+   "chave_nfe": "NF-1887CC",
+   "id_lancamento": "DSP-C-009900",
+   "veiculo": "C-V09",
+   "emissao": "2025-11-03T15:54",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 366.72,
+   "valor_unitario": 6.597,
+   "valor_total": 2419.25
+  },
+  {
+   "chave_nfe": "NF-B86C16",
+   "id_lancamento": "DSP-C-009901",
+   "veiculo": "C-V13",
+   "emissao": "2026-02-04T17:35",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 350.82,
+   "valor_unitario": 6.073,
+   "valor_total": 2130.53
+  },
+  {
+   "chave_nfe": "NF-FF8D2E",
+   "id_lancamento": "DSP-C-009902",
+   "veiculo": "C-V32",
+   "emissao": "2025-08-16T08:46",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 212.14,
+   "valor_unitario": 6.246,
+   "valor_total": 1325.03
+  },
+  {
+   "chave_nfe": "NF-8AC32A",
+   "id_lancamento": "DSP-C-009903",
+   "veiculo": "C-V27",
+   "emissao": "2026-04-14T18:44",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 362.01,
+   "valor_unitario": 6.628,
+   "valor_total": 2399.4
+  },
+  {
+   "chave_nfe": "NF-D62067",
+   "id_lancamento": "DSP-C-009904",
+   "veiculo": "C-V21",
+   "emissao": "2026-05-22T11:04",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 467.51,
+   "valor_unitario": 6.142,
+   "valor_total": 2871.45
+  },
+  {
+   "chave_nfe": "NF-20D148",
+   "id_lancamento": "DSP-C-009905",
+   "veiculo": "C-V31",
+   "emissao": "2025-12-19T09:47",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 163.12,
+   "valor_unitario": 6.154,
+   "valor_total": 1003.84
+  },
+  {
+   "chave_nfe": "NF-EE74F7",
+   "id_lancamento": "DSP-C-009906",
+   "veiculo": "C-V36",
+   "emissao": "2025-08-13T09:06",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 173.4,
+   "valor_unitario": 5.936,
+   "valor_total": 1029.3
+  },
+  {
+   "chave_nfe": "NF-50DAE2",
+   "id_lancamento": "DSP-C-009907",
+   "veiculo": "C-V13",
+   "emissao": "2025-10-01T20:26",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 412.95,
+   "valor_unitario": 6.412,
+   "valor_total": 2647.84
+  },
+  {
+   "chave_nfe": "NF-CF9BB8",
+   "id_lancamento": "DSP-C-009908",
+   "veiculo": "C-V04",
+   "emissao": "2025-09-07T12:51",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 481.28,
+   "valor_unitario": 6.164,
+   "valor_total": 2966.61
+  },
+  {
+   "chave_nfe": "NF-BF7C5C",
+   "id_lancamento": "DSP-C-009909",
+   "veiculo": "C-V24",
+   "emissao": "2026-06-10T08:17",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 443.41,
+   "valor_unitario": 5.983,
+   "valor_total": 2652.92
+  },
+  {
+   "chave_nfe": "NF-31E3E5",
+   "id_lancamento": "DSP-C-009910",
+   "veiculo": "C-V03",
+   "emissao": "2026-03-09T14:27",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 440.35,
+   "valor_unitario": 6.148,
+   "valor_total": 2707.27
+  },
+  {
+   "chave_nfe": "NF-014C19",
+   "id_lancamento": "DSP-C-009911",
+   "veiculo": "C-V05",
+   "emissao": "2025-09-23T09:28",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 427.82,
+   "valor_unitario": 6.23,
+   "valor_total": 2665.32
+  },
+  {
+   "chave_nfe": "NF-456022",
+   "id_lancamento": "DSP-C-009912",
+   "veiculo": "C-V02",
+   "emissao": "2025-12-26T12:28",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 426.76,
+   "valor_unitario": 6.259,
+   "valor_total": 2671.09
+  },
+  {
+   "chave_nfe": "NF-469F7E",
+   "id_lancamento": "DSP-C-009913",
+   "veiculo": "C-V18",
+   "emissao": "2026-03-05T18:37",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 492.42,
+   "valor_unitario": 5.888,
+   "valor_total": 2899.37
+  },
+  {
+   "chave_nfe": "NF-74BD9D",
+   "id_lancamento": "DSP-C-009914",
+   "veiculo": "C-V30",
+   "emissao": "2025-09-04T10:13",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 238.66,
+   "valor_unitario": 6.244,
+   "valor_total": 1490.19
+  },
+  {
+   "chave_nfe": "NF-4D2143",
+   "id_lancamento": "DSP-C-009915",
+   "veiculo": "C-V38",
+   "emissao": "2026-01-03T09:37",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 194.43,
+   "valor_unitario": 6.152,
+   "valor_total": 1196.13
+  },
+  {
+   "chave_nfe": "NF-1C7CB7",
+   "id_lancamento": "DSP-C-009916",
+   "veiculo": "C-V28",
+   "emissao": "2025-10-10T17:43",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 358.97,
+   "valor_unitario": 6.11,
+   "valor_total": 2193.31
+  },
+  {
+   "chave_nfe": "NF-F3AA78",
+   "id_lancamento": "DSP-C-009917",
+   "veiculo": "C-V40",
+   "emissao": "2025-07-02T17:38",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 164.89,
+   "valor_unitario": 6.159,
+   "valor_total": 1015.56
+  },
+  {
+   "chave_nfe": "NF-7D1364",
+   "id_lancamento": "DSP-C-009918",
+   "veiculo": "C-V12",
+   "emissao": "2026-04-21T11:42",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 467.42,
+   "valor_unitario": 6.148,
+   "valor_total": 2873.7
+  },
+  {
+   "chave_nfe": "NF-A133D1",
+   "id_lancamento": "DSP-C-009919",
+   "veiculo": "C-V01",
+   "emissao": "2026-01-04T07:00",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 497.09,
+   "valor_unitario": 6.276,
+   "valor_total": 3119.74
+  },
+  {
+   "chave_nfe": "NF-77D06D",
+   "id_lancamento": "DSP-C-009920",
+   "veiculo": "C-V10",
+   "emissao": "2026-01-31T20:24",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 386.12,
+   "valor_unitario": 6.257,
+   "valor_total": 2415.95
+  },
+  {
+   "chave_nfe": "NF-AEF0B7",
+   "id_lancamento": "DSP-C-009921",
+   "veiculo": "C-V35",
+   "emissao": "2025-08-24T16:26",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 152.77,
+   "valor_unitario": 6.039,
+   "valor_total": 922.58
+  },
+  {
+   "chave_nfe": "NF-FB4AE4",
+   "id_lancamento": "DSP-C-009922",
+   "veiculo": "C-V10",
+   "emissao": "2025-10-06T09:16",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 373.77,
+   "valor_unitario": 6.11,
+   "valor_total": 2283.73
+  },
+  {
+   "chave_nfe": "NF-CBEDFA",
+   "id_lancamento": "DSP-C-009923",
+   "veiculo": "C-V30",
+   "emissao": "2026-01-17T13:37",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 205.33,
+   "valor_unitario": 6.064,
+   "valor_total": 1245.12
+  },
+  {
+   "chave_nfe": "NF-D3F99C",
+   "id_lancamento": "DSP-C-009924",
+   "veiculo": "C-V39",
+   "emissao": "2026-01-09T15:05",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 181.56,
+   "valor_unitario": 6.266,
+   "valor_total": 1137.65
+  },
+  {
+   "chave_nfe": "NF-F10BF2",
+   "id_lancamento": "DSP-C-009925",
+   "veiculo": "C-V04",
+   "emissao": "2025-12-25T18:06",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 352.22,
+   "valor_unitario": 5.944,
+   "valor_total": 2093.6
+  },
+  {
+   "chave_nfe": "NF-63EE2C",
+   "id_lancamento": "DSP-C-009926",
+   "veiculo": "C-V25",
+   "emissao": "2026-01-18T18:33",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 378.84,
+   "valor_unitario": 6.014,
+   "valor_total": 2278.34
+  },
+  {
+   "chave_nfe": "NF-9D98B2",
+   "id_lancamento": "DSP-C-009927",
+   "veiculo": "C-V08",
+   "emissao": "2025-11-11T18:13",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 429.81,
+   "valor_unitario": 5.882,
+   "valor_total": 2528.14
+  },
+  {
+   "chave_nfe": "NF-474EF3",
+   "id_lancamento": "DSP-C-009928",
+   "veiculo": "C-V33",
+   "emissao": "2025-08-26T10:58",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 218.01,
+   "valor_unitario": 6.216,
+   "valor_total": 1355.15
+  },
+  {
+   "chave_nfe": "NF-AEC146",
+   "id_lancamento": "DSP-C-009929",
+   "veiculo": "C-V33",
+   "emissao": "2026-04-13T15:15",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 172.67,
+   "valor_unitario": 6.223,
+   "valor_total": 1074.53
+  },
+  {
+   "chave_nfe": "NF-91C39C",
+   "id_lancamento": "DSP-C-009930",
+   "veiculo": "C-V23",
+   "emissao": "2026-03-20T13:38",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 324.52,
+   "valor_unitario": 6.174,
+   "valor_total": 2003.59
+  },
+  {
+   "chave_nfe": "NF-446285",
+   "id_lancamento": "DSP-C-009931",
+   "veiculo": "C-V26",
+   "emissao": "2025-07-04T10:30",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 512.1,
+   "valor_unitario": 6.293,
+   "valor_total": 3222.65
+  },
+  {
+   "chave_nfe": "NF-CA9AA9",
+   "id_lancamento": "DSP-C-009932",
+   "veiculo": "C-V19",
+   "emissao": "2026-05-23T12:04",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 393.11,
+   "valor_unitario": 6.226,
+   "valor_total": 2447.5
+  },
+  {
+   "chave_nfe": "NF-8ADDF5",
+   "id_lancamento": "DSP-C-009933",
+   "veiculo": "C-V35",
+   "emissao": "2026-05-23T10:29",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 238.4,
+   "valor_unitario": 6.207,
+   "valor_total": 1479.75
+  },
+  {
+   "chave_nfe": "NF-837EE5",
+   "id_lancamento": "DSP-C-009934",
+   "veiculo": "C-V36",
+   "emissao": "2025-08-18T15:46",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 89.31,
+   "valor_unitario": 6.055,
+   "valor_total": 540.77
+  },
+  {
+   "chave_nfe": "NF-90C086",
+   "id_lancamento": "DSP-C-009935",
+   "veiculo": "C-V11",
+   "emissao": "2026-06-29T18:28",
+   "produto": "OLEO DIESEL B S10",
+   "quantidade_l": 363.39,
+   "valor_unitario": 6.002,
+   "valor_total": 2181.07
+  }
+ ]
+}

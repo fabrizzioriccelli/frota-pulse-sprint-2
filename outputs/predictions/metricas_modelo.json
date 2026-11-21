@@ -1,0 +1,110 @@
+{
+ "alvo": "consumo do mês mais de 5% pior que a mediana do grupo (alvo adotado)",
+ "atributos": [
+  "pct_rpm_acima_verde",
+  "pct_marcha_lenta",
+  "pct_excesso_velocidade",
+  "velocidade_media_kmh",
+  "alertas_temperatura",
+  "temperatura_max_c",
+  "idade_anos",
+  "grupo_LEVE_MISTA_UTILITARIO",
+  "grupo_MEDIA_MISTA_TOCO",
+  "grupo_MEDIA_MISTA_VUC",
+  "grupo_PESADA_RODOVIARIA_CAVALO",
+  "grupo_PESADA_RODOVIARIA_TRUCK"
+ ],
+ "tamanhos": {
+  "veiculo_meses": 835,
+  "treino": 585,
+  "teste": 250,
+  "veiculos_treino": 49,
+  "veiculos_teste": 21,
+  "taxa_ineficiente_treino": 0.263,
+  "taxa_ineficiente_teste": 0.264
+ },
+ "linha_de_base_teste": 0.736,
+ "matriz_confusao": {
+  "vn": 159,
+  "fp": 25,
+  "fn": 18,
+  "vp": 48
+ },
+ "comparacao_modelos": {
+  "arvore_decisao": {
+   "treino": {
+    "acuracia": 0.85,
+    "acuracia_balanceada": 0.827,
+    "precisao_ineficiente": 0.69,
+    "recall_ineficiente": 0.779,
+    "f1_ineficiente": 0.732
+   },
+   "teste": {
+    "acuracia": 0.828,
+    "acuracia_balanceada": 0.796,
+    "precisao_ineficiente": 0.658,
+    "recall_ineficiente": 0.727,
+    "f1_ineficiente": 0.691
+   }
+  },
+  "regressao_logistica": {
+   "treino": {
+    "acuracia": 0.858,
+    "acuracia_balanceada": 0.856,
+    "precisao_ineficiente": 0.686,
+    "recall_ineficiente": 0.851,
+    "f1_ineficiente": 0.759
+   },
+   "teste": {
+    "acuracia": 0.848,
+    "acuracia_balanceada": 0.843,
+    "precisao_ineficiente": 0.671,
+    "recall_ineficiente": 0.833,
+    "f1_ineficiente": 0.743
+   }
+  },
+  "floresta_aleatoria": {
+   "treino": {
+    "acuracia": 0.88,
+    "acuracia_balanceada": 0.877,
+    "precisao_ineficiente": 0.728,
+    "recall_ineficiente": 0.87,
+    "f1_ineficiente": 0.793
+   },
+   "teste": {
+    "acuracia": 0.832,
+    "acuracia_balanceada": 0.832,
+    "precisao_ineficiente": 0.64,
+    "recall_ineficiente": 0.833,
+    "f1_ineficiente": 0.724
+   }
+  }
+ },
+ "importancias": {
+  "pct_marcha_lenta": 0.628,
+  "pct_rpm_acima_verde": 0.199,
+  "pct_excesso_velocidade": 0.111,
+  "grupo_LEVE_MISTA_UTILITARIO": 0.05,
+  "idade_anos": 0.011
+ },
+ "experimento_1": {
+  "alvo": "regra mensal completa: pior gap de custo por km ou de consumo acima de 15%",
+  "linha_de_base_teste": 0.728,
+  "arvore_decisao": {
+   "treino": {
+    "acuracia": 0.494,
+    "acuracia_balanceada": 0.588,
+    "precisao_ineficiente": 0.343,
+    "recall_ineficiente": 0.812,
+    "f1_ineficiente": 0.483
+   },
+   "teste": {
+    "acuracia": 0.44,
+    "acuracia_balanceada": 0.542,
+    "precisao_ineficiente": 0.295,
+    "recall_ineficiente": 0.765,
+    "f1_ineficiente": 0.426
+   }
+  }
+ }
+}

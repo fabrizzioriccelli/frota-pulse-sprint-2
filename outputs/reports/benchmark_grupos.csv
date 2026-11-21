@@ -1,0 +1,64 @@
+grupo,nome_grupo,indicador,n,media,mediana,q1,q3,minimo,maximo,referencia_valida
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),custo_km,8,1.9258,1.4105,1.3485,2.6458,1.2443,3.1298,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),km_l,8,9.2950,9.3352,9.2032,9.4278,8.8824,9.5842,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),preco_medio_l,8,6.3480,6.3529,6.3315,6.3627,6.2800,6.4130,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),combustivel_km,8,0.6832,0.6800,0.6717,0.6908,0.6691,0.7070,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),manutencao_km,8,0.1604,0.2124,0.0000,0.2811,0.0000,0.2907,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),pedagio_km,8,0.0908,0.0877,0.0845,0.0961,0.0682,0.1156,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),multas_km,8,0.0454,0.0126,0.0026,0.0778,0.0000,0.1461,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),impostos_km,8,0.1716,0.0702,0.0577,0.3157,0.0542,0.4137,True
+LEVE_MISTA_UTILITARIO,Leve mista (utilitário),outros_km,8,0.7745,0.2865,0.2345,1.4078,0.2129,1.8980,True
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),custo_km,2,0.6716,0.6716,0.6642,0.6789,0.6568,0.6863,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),km_l,4,11.5696,11.4977,11.2511,11.8161,10.9364,12.3466,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),preco_medio_l,4,6.4939,6.4868,6.4594,6.5213,6.4363,6.5658,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),combustivel_km,4,0.5626,0.5643,0.5470,0.5798,0.5213,0.6004,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),manutencao_km,2,0.0386,0.0386,0.0193,0.0579,0.0000,0.0772,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),pedagio_km,4,0.0370,0.0391,0.0339,0.0422,0.0271,0.0427,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),multas_km,4,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),impostos_km,2,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,False
+LEVE_URBANA_AUTOMOVEL,Leve urbana (automóvel),outros_km,2,0.0147,0.0147,0.0073,0.0220,0.0000,0.0294,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),custo_km,1,0.9465,0.9465,0.9465,0.9465,0.9465,0.9465,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),km_l,1,8.7897,8.7897,8.7897,8.7897,8.7897,8.7897,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),preco_medio_l,1,6.3807,6.3807,6.3807,6.3807,6.3807,6.3807,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),combustivel_km,1,0.7259,0.7259,0.7259,0.7259,0.7259,0.7259,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),manutencao_km,1,0.1816,0.1816,0.1816,0.1816,0.1816,0.1816,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),pedagio_km,1,0.0310,0.0310,0.0310,0.0310,0.0310,0.0310,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),multas_km,1,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),impostos_km,1,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,False
+LEVE_URBANA_UTILITARIO,Leve urbana (utilitário),outros_km,1,0.0079,0.0079,0.0079,0.0079,0.0079,0.0079,False
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),custo_km,12,2.1596,2.1453,2.1113,2.2546,1.9634,2.3347,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),km_l,12,4.5654,4.5823,4.4024,4.7403,4.0022,4.9678,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),preco_medio_l,12,6.1678,6.1674,6.1404,6.2003,6.1150,6.2066,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),combustivel_km,12,1.3563,1.3423,1.3031,1.3922,1.2402,1.5439,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),manutencao_km,12,0.4279,0.3818,0.2773,0.5694,0.2136,0.6985,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),pedagio_km,12,0.1744,0.1744,0.1649,0.1834,0.1462,0.2007,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),multas_km,12,0.0037,0.0021,0.0000,0.0029,0.0000,0.0163,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),impostos_km,12,0.0566,0.0584,0.0515,0.0641,0.0340,0.0716,True
+MEDIA_MISTA_TOCO,Média mista (caminhão toco),outros_km,12,0.1408,0.1395,0.1280,0.1496,0.1117,0.1719,True
+MEDIA_MISTA_VUC,Média mista (VUC),custo_km,10,1.8912,1.8549,1.7458,2.0162,1.6518,2.2027,True
+MEDIA_MISTA_VUC,Média mista (VUC),km_l,10,6.2678,6.3588,5.8550,6.6198,5.7045,6.7238,True
+MEDIA_MISTA_VUC,Média mista (VUC),preco_medio_l,10,6.1714,6.1760,6.1538,6.1915,6.1132,6.2144,True
+MEDIA_MISTA_VUC,Média mista (VUC),combustivel_km,10,0.9887,0.9684,0.9325,1.0487,0.9202,1.0824,True
+MEDIA_MISTA_VUC,Média mista (VUC),manutencao_km,10,0.4443,0.4127,0.3585,0.5512,0.2606,0.6714,True
+MEDIA_MISTA_VUC,Média mista (VUC),pedagio_km,10,0.1760,0.1767,0.1636,0.1848,0.1506,0.2086,True
+MEDIA_MISTA_VUC,Média mista (VUC),multas_km,10,0.0049,0.0045,0.0000,0.0060,0.0000,0.0196,True
+MEDIA_MISTA_VUC,Média mista (VUC),impostos_km,10,0.0781,0.0814,0.0657,0.0898,0.0481,0.1128,True
+MEDIA_MISTA_VUC,Média mista (VUC),outros_km,10,0.1993,0.1871,0.1712,0.2328,0.1576,0.2512,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),custo_km,28,3.6753,3.6936,3.5431,3.8344,3.2544,4.1576,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),km_l,28,2.4264,2.3907,2.2608,2.5724,2.1556,2.8436,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),preco_medio_l,28,6.1606,6.1242,6.0775,6.1652,6.0299,6.4071,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),combustivel_km,28,2.5545,2.5469,2.3952,2.7365,2.1453,2.8635,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),manutencao_km,28,0.7501,0.7347,0.6606,0.8216,0.4913,1.1086,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),pedagio_km,28,0.1853,0.1859,0.1737,0.1963,0.1330,0.2480,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),multas_km,28,0.0007,0.0006,0.0000,0.0011,0.0000,0.0029,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),impostos_km,28,0.0590,0.0605,0.0488,0.0651,0.0329,0.0864,True
+PESADA_RODOVIARIA_CAVALO,Pesada rodoviária (cavalo mecânico),outros_km,28,0.1256,0.1256,0.1162,0.1415,0.0844,0.1485,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),custo_km,12,2.5864,2.5352,2.4613,2.7432,2.3320,2.9327,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),km_l,12,3.4795,3.5551,3.1601,3.7251,3.0724,3.7812,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),preco_medio_l,12,6.1240,6.1246,6.0905,6.1598,6.0539,6.1935,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),combustivel_km,12,1.7718,1.7203,1.6353,1.9521,1.6069,1.9997,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),manutencao_km,12,0.4845,0.4948,0.4053,0.5377,0.3175,0.6345,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),pedagio_km,12,0.0932,0.0938,0.0885,0.1021,0.0495,0.1198,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),multas_km,12,0.0014,0.0006,0.0000,0.0021,0.0000,0.0059,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),impostos_km,12,0.0500,0.0455,0.0430,0.0552,0.0369,0.0723,True
+PESADA_RODOVIARIA_TRUCK,Pesada rodoviária (truck),outros_km,12,0.1855,0.1865,0.1713,0.1961,0.1562,0.2300,True

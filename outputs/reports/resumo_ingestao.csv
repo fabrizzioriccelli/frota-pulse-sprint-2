@@ -1,0 +1,13 @@
+arquivo,fonte,formato,registros,linhas_rejeitadas,hash_sha256
+data/raw/cadastro/cadastro_frota.csv,cadastro,csv,79,0,1d6004bade98
+data/raw/combustivel/abastecimentos_cartao.csv,combustivel,csv,7737,0,169b4bb9c9fa
+data/raw/combustivel/abastecimentos_cartao_reenvio_EMP-B_2026-03.csv,combustivel,csv,161,0,786fcc9ea981
+data/raw/combustivel/notas_fiscais_combustivel.json,nfe_combustivel,json,40,0,0ffda8b3627e
+data/raw/pedagio/extrato_tag_EMP-A.txt,pedagio,txt,243,0,003b8f52cc76
+data/raw/pedagio/extrato_tag_EMP-B.txt,pedagio,txt,8345,0,479ff7ead157
+data/raw/pedagio/extrato_tag_EMP-C.txt,pedagio,txt,3311,1,2279568e95c8
+data/raw/manutencao/ordens_servico.json,manutencao,json,1540,0,c1be584ef5c5
+data/raw/multas/notificacoes_multas.json,multas,json,72,0,d8aba4e66166
+data/raw/financeiro/lancamentos_erp.csv,financeiro,csv,977,0,583411cd9745
+data/raw/operacao/quilometragem_telematica.json,quilometragem,json,888,0,1a3e85431d5b
+data/telemetria/telemetria_esp32.csv,telemetria,csv,52020,0,a8488d364c96

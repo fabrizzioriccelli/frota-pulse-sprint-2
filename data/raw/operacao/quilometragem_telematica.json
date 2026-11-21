@@ -1,0 +1,6222 @@
+{
+ "provedor": "telemática embarcada",
+ "unidade_distancia": "m",
+ "registros": [
+  {
+   "veiculo": "A-V01",
+   "mes": "2025-10",
+   "distancia_m": 2879800,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V01",
+   "mes": "2025-11",
+   "distancia_m": 2655700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V01",
+   "mes": "2025-12",
+   "distancia_m": 2150400,
+   "dias_operacao": 18,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V01",
+   "mes": "2026-01",
+   "distancia_m": 2306600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V01",
+   "mes": "2026-02",
+   "distancia_m": 2228300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V01",
+   "mes": "2026-03",
+   "distancia_m": 2314400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V02",
+   "mes": "2025-10",
+   "distancia_m": null,
+   "dias_operacao": 18,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V02",
+   "mes": "2025-11",
+   "distancia_m": null,
+   "dias_operacao": 18,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V02",
+   "mes": "2025-12",
+   "distancia_m": null,
+   "dias_operacao": 20,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V02",
+   "mes": "2026-01",
+   "distancia_m": null,
+   "dias_operacao": 22,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V02",
+   "mes": "2026-02",
+   "distancia_m": null,
+   "dias_operacao": 21,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V02",
+   "mes": "2026-03",
+   "distancia_m": null,
+   "dias_operacao": 19,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V03",
+   "mes": "2025-10",
+   "distancia_m": null,
+   "dias_operacao": 21,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V03",
+   "mes": "2025-11",
+   "distancia_m": null,
+   "dias_operacao": 18,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V03",
+   "mes": "2025-12",
+   "distancia_m": null,
+   "dias_operacao": 21,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V03",
+   "mes": "2026-01",
+   "distancia_m": null,
+   "dias_operacao": 21,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V03",
+   "mes": "2026-02",
+   "distancia_m": null,
+   "dias_operacao": 19,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V03",
+   "mes": "2026-03",
+   "distancia_m": null,
+   "dias_operacao": 22,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V04",
+   "mes": "2025-10",
+   "distancia_m": null,
+   "dias_operacao": 19,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V04",
+   "mes": "2025-11",
+   "distancia_m": null,
+   "dias_operacao": 22,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V04",
+   "mes": "2025-12",
+   "distancia_m": null,
+   "dias_operacao": 20,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V04",
+   "mes": "2026-01",
+   "distancia_m": null,
+   "dias_operacao": 22,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V04",
+   "mes": "2026-02",
+   "distancia_m": null,
+   "dias_operacao": 18,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V04",
+   "mes": "2026-03",
+   "distancia_m": null,
+   "dias_operacao": 18,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "A-V05",
+   "mes": "2025-10",
+   "distancia_m": 1466200,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V05",
+   "mes": "2025-11",
+   "distancia_m": 1599900,
+   "dias_operacao": 18,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V05",
+   "mes": "2025-12",
+   "distancia_m": 1553300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V05",
+   "mes": "2026-01",
+   "distancia_m": 1260400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V05",
+   "mes": "2026-02",
+   "distancia_m": 1684400,
+   "dias_operacao": 18,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V05",
+   "mes": "2026-03",
+   "distancia_m": 1440600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V06",
+   "mes": "2025-10",
+   "distancia_m": 1377400,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V06",
+   "mes": "2025-11",
+   "distancia_m": 1688400,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V06",
+   "mes": "2025-12",
+   "distancia_m": 1257300,
+   "dias_operacao": 19,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V06",
+   "mes": "2026-01",
+   "distancia_m": 1307900,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V06",
+   "mes": "2026-02",
+   "distancia_m": 1390400,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V06",
+   "mes": "2026-03",
+   "distancia_m": 1152100,
+   "dias_operacao": 18,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V07",
+   "mes": "2025-10",
+   "distancia_m": 1907500,
+   "dias_operacao": 18,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V07",
+   "mes": "2025-11",
+   "distancia_m": 1803100,
+   "dias_operacao": 18,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V07",
+   "mes": "2025-12",
+   "distancia_m": 1680400,
+   "dias_operacao": 19,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V07",
+   "mes": "2026-01",
+   "distancia_m": 1600600,
+   "dias_operacao": 19,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V07",
+   "mes": "2026-02",
+   "distancia_m": 1557600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V07",
+   "mes": "2026-03",
+   "distancia_m": 1655900,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V08",
+   "mes": "2025-10",
+   "distancia_m": 1532500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V08",
+   "mes": "2025-11",
+   "distancia_m": 1402600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V08",
+   "mes": "2025-12",
+   "distancia_m": 1327000,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V08",
+   "mes": "2026-01",
+   "distancia_m": 1189100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V08",
+   "mes": "2026-02",
+   "distancia_m": 1465300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "A-V08",
+   "mes": "2026-03",
+   "distancia_m": 1527700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2025-07",
+   "distancia_m": 2637100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2025-08",
+   "distancia_m": 2644400,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2025-09",
+   "distancia_m": 2653700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2025-10",
+   "distancia_m": 3113900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2025-11",
+   "distancia_m": 2913600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2025-12",
+   "distancia_m": 2149000,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2026-01",
+   "distancia_m": 2230700,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2026-02",
+   "distancia_m": 2569400,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2026-03",
+   "distancia_m": 2633400,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2026-04",
+   "distancia_m": 2439500,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2026-05",
+   "distancia_m": 2709500,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V01",
+   "mes": "2026-06",
+   "distancia_m": 3014800,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2025-07",
+   "distancia_m": 2376100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2025-08",
+   "distancia_m": 2929500,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2025-09",
+   "distancia_m": 2684300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2025-10",
+   "distancia_m": 2850300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2025-11",
+   "distancia_m": 3380700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2025-12",
+   "distancia_m": 2438600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2026-01",
+   "distancia_m": 2649700,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2026-02",
+   "distancia_m": 2876200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2026-03",
+   "distancia_m": 2828100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2026-04",
+   "distancia_m": 2834300,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2026-05",
+   "distancia_m": 3136500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V02",
+   "mes": "2026-06",
+   "distancia_m": 2546300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2025-07",
+   "distancia_m": 3392000,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2025-08",
+   "distancia_m": -3616000,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2025-09",
+   "distancia_m": 3124600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2025-10",
+   "distancia_m": 2965500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2025-11",
+   "distancia_m": 3165200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2025-12",
+   "distancia_m": 3227000,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2026-01",
+   "distancia_m": 2366200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2026-02",
+   "distancia_m": 3231400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2026-03",
+   "distancia_m": 3086600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2026-04",
+   "distancia_m": 3362800,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2026-05",
+   "distancia_m": 3124300,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V03",
+   "mes": "2026-06",
+   "distancia_m": 3296100,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2025-07",
+   "distancia_m": 3326800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2025-08",
+   "distancia_m": 3334500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2025-09",
+   "distancia_m": 4087300,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2025-10",
+   "distancia_m": 3581100,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2025-11",
+   "distancia_m": 3751500,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2025-12",
+   "distancia_m": 3595500,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2026-01",
+   "distancia_m": 3198400,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2026-02",
+   "distancia_m": 3071700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2026-03",
+   "distancia_m": 3281500,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2026-04",
+   "distancia_m": 3205400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2026-05",
+   "distancia_m": 2877100,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V04",
+   "mes": "2026-06",
+   "distancia_m": 3620500,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2025-07",
+   "distancia_m": 2450800,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2025-08",
+   "distancia_m": 2851200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2025-09",
+   "distancia_m": 2839000,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2025-10",
+   "distancia_m": 3329300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2025-11",
+   "distancia_m": 2619300,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2025-12",
+   "distancia_m": 2498400,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2026-01",
+   "distancia_m": 1964100,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2026-02",
+   "distancia_m": 2717800,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2026-03",
+   "distancia_m": 2231400,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2026-04",
+   "distancia_m": 2836500,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2026-05",
+   "distancia_m": 2470000,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V05",
+   "mes": "2026-06",
+   "distancia_m": 2059300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2025-07",
+   "distancia_m": 2774500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2025-08",
+   "distancia_m": 2781000,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2025-09",
+   "distancia_m": 2603500,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2025-10",
+   "distancia_m": 2663000,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2025-11",
+   "distancia_m": 2665000,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2025-12",
+   "distancia_m": 2216600,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2026-01",
+   "distancia_m": 2069100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2026-02",
+   "distancia_m": 2449400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2026-03",
+   "distancia_m": 1881300,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2026-04",
+   "distancia_m": 2215600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2026-05",
+   "distancia_m": 2141100,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V06",
+   "mes": "2026-06",
+   "distancia_m": 2404100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2025-07",
+   "distancia_m": 4188700,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2025-08",
+   "distancia_m": 4161700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2025-09",
+   "distancia_m": 3771100,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2025-10",
+   "distancia_m": 3656000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2025-11",
+   "distancia_m": 4203100,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2025-12",
+   "distancia_m": 3786600,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2026-01",
+   "distancia_m": 3749800,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2026-02",
+   "distancia_m": 4214100,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2026-03",
+   "distancia_m": 3122000,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2026-04",
+   "distancia_m": 3658100,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2026-05",
+   "distancia_m": 4475800,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V07",
+   "mes": "2026-06",
+   "distancia_m": 3528800,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2025-07",
+   "distancia_m": 3965200,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2025-08",
+   "distancia_m": 3846400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2025-09",
+   "distancia_m": 3709300,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2025-10",
+   "distancia_m": 3704100,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2025-11",
+   "distancia_m": 3905400,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2025-12",
+   "distancia_m": null,
+   "dias_operacao": 24,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2026-01",
+   "distancia_m": null,
+   "dias_operacao": 26,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2026-02",
+   "distancia_m": 3799100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2026-03",
+   "distancia_m": 3443900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2026-04",
+   "distancia_m": 3437900,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2026-05",
+   "distancia_m": 3414500,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V08",
+   "mes": "2026-06",
+   "distancia_m": 3738100,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2025-07",
+   "distancia_m": 3589600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2025-08",
+   "distancia_m": 2944700,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2025-09",
+   "distancia_m": 3138400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2025-10",
+   "distancia_m": 3695700,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2025-11",
+   "distancia_m": 3536600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2025-12",
+   "distancia_m": 3527700,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2026-01",
+   "distancia_m": 3218000,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2026-02",
+   "distancia_m": 2982300,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2026-03",
+   "distancia_m": 3021700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2026-04",
+   "distancia_m": 3197000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2026-05",
+   "distancia_m": 3658900,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V09",
+   "mes": "2026-06",
+   "distancia_m": 3475800,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2025-07",
+   "distancia_m": 3763400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2025-08",
+   "distancia_m": 4505900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2025-09",
+   "distancia_m": 4055700,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2025-10",
+   "distancia_m": 4167200,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2025-11",
+   "distancia_m": 4545700,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2025-12",
+   "distancia_m": 3164100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2026-01",
+   "distancia_m": 3705800,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2026-02",
+   "distancia_m": 3751500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2026-03",
+   "distancia_m": 3980800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2026-04",
+   "distancia_m": 4113600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2026-05",
+   "distancia_m": 3703200,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V10",
+   "mes": "2026-06",
+   "distancia_m": 3741400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2025-07",
+   "distancia_m": 5219900,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2025-08",
+   "distancia_m": 5427600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2025-09",
+   "distancia_m": 5749400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2025-10",
+   "distancia_m": 5615700,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2025-11",
+   "distancia_m": 5914200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2025-12",
+   "distancia_m": 4780000,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2026-01",
+   "distancia_m": 4965500,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2026-02",
+   "distancia_m": 4740800,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2026-03",
+   "distancia_m": 5597800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2026-04",
+   "distancia_m": 5771000,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2026-05",
+   "distancia_m": 5958600,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V11",
+   "mes": "2026-06",
+   "distancia_m": 4578600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2025-07",
+   "distancia_m": 4580500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2025-08",
+   "distancia_m": 4175300,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2025-09",
+   "distancia_m": 4163900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2025-10",
+   "distancia_m": 4110400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2025-11",
+   "distancia_m": 3802700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2025-12",
+   "distancia_m": 3433600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2026-01",
+   "distancia_m": 3506800,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2026-02",
+   "distancia_m": 3623200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2026-03",
+   "distancia_m": 3571100,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2026-04",
+   "distancia_m": 3704500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2026-05",
+   "distancia_m": 3731200,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V12",
+   "mes": "2026-06",
+   "distancia_m": 3577700,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2025-07",
+   "distancia_m": 4379200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2025-08",
+   "distancia_m": 4060900,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2025-09",
+   "distancia_m": 4183200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2025-10",
+   "distancia_m": 4022300,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2025-11",
+   "distancia_m": 4564400,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2025-12",
+   "distancia_m": 3570500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2026-01",
+   "distancia_m": 3872900,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2026-02",
+   "distancia_m": 4653400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2026-03",
+   "distancia_m": 4548900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2026-04",
+   "distancia_m": 3943000,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2026-05",
+   "distancia_m": 4258600,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V13",
+   "mes": "2026-06",
+   "distancia_m": 3905800,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2025-07",
+   "distancia_m": 3831500,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2025-08",
+   "distancia_m": 3510000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2025-09",
+   "distancia_m": 3444200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2025-10",
+   "distancia_m": 3862500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2025-11",
+   "distancia_m": 3472600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2025-12",
+   "distancia_m": 3017400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2026-01",
+   "distancia_m": 3136400,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2026-02",
+   "distancia_m": 3451100,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2026-03",
+   "distancia_m": 3528300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2026-04",
+   "distancia_m": 3827200,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2026-05",
+   "distancia_m": 3451000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V14",
+   "mes": "2026-06",
+   "distancia_m": 3314300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2025-07",
+   "distancia_m": 3318300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2025-08",
+   "distancia_m": 4174300,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2025-09",
+   "distancia_m": 3692600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2025-10",
+   "distancia_m": 4151500,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2025-11",
+   "distancia_m": 3749900,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2025-12",
+   "distancia_m": 3690600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2026-01",
+   "distancia_m": 3036800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2026-02",
+   "distancia_m": 3387700,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2026-03",
+   "distancia_m": 3613700,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2026-04",
+   "distancia_m": 3399800,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2026-05",
+   "distancia_m": 3563500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V15",
+   "mes": "2026-06",
+   "distancia_m": 3387600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2025-07",
+   "distancia_m": 4550600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2025-08",
+   "distancia_m": 5320600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2025-09",
+   "distancia_m": 4869700,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2025-10",
+   "distancia_m": 5094800,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2025-11",
+   "distancia_m": 5833800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2025-12",
+   "distancia_m": 4688800,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2026-01",
+   "distancia_m": 4490600,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2026-02",
+   "distancia_m": 5167700,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2026-03",
+   "distancia_m": 4149300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2026-04",
+   "distancia_m": 5080100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2026-05",
+   "distancia_m": 4558300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V16",
+   "mes": "2026-06",
+   "distancia_m": 4685700,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2025-07",
+   "distancia_m": 4998300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2025-08",
+   "distancia_m": 4601100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2025-09",
+   "distancia_m": 4775000,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2025-10",
+   "distancia_m": 4663600,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2025-11",
+   "distancia_m": 5464200,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2025-12",
+   "distancia_m": 4101500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2026-01",
+   "distancia_m": 4431500,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2026-02",
+   "distancia_m": 4372900,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2026-03",
+   "distancia_m": 4634800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2026-04",
+   "distancia_m": 4289200,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2026-05",
+   "distancia_m": 4823200,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V17",
+   "mes": "2026-06",
+   "distancia_m": 5008600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2025-07",
+   "distancia_m": 4025400,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2025-08",
+   "distancia_m": 5105200,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2025-09",
+   "distancia_m": 4250200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2025-10",
+   "distancia_m": 4463300,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2025-11",
+   "distancia_m": 5039300,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2025-12",
+   "distancia_m": 4181000,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2026-01",
+   "distancia_m": 3371400,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2026-02",
+   "distancia_m": 3985800,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2026-03",
+   "distancia_m": 4237400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2026-04",
+   "distancia_m": 4270400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2026-05",
+   "distancia_m": 4126600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V18",
+   "mes": "2026-06",
+   "distancia_m": 3656100,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2025-07",
+   "distancia_m": 6081400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2025-08",
+   "distancia_m": 5980800,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2025-09",
+   "distancia_m": 5277800,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2025-10",
+   "distancia_m": 5337700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2025-11",
+   "distancia_m": 5108900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2025-12",
+   "distancia_m": 5914500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2026-01",
+   "distancia_m": 3815700,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2026-02",
+   "distancia_m": 3836900,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2026-03",
+   "distancia_m": 5873700,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2026-04",
+   "distancia_m": 4648800,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2026-05",
+   "distancia_m": null,
+   "dias_operacao": 22,
+   "fonte": NaN
+  },
+  {
+   "veiculo": "B-V19",
+   "mes": "2026-06",
+   "distancia_m": 4387100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2025-07",
+   "distancia_m": 4644600,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2025-08",
+   "distancia_m": 4348300,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2025-09",
+   "distancia_m": 4628200,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2025-10",
+   "distancia_m": 4236100,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2025-11",
+   "distancia_m": 4150000,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2025-12",
+   "distancia_m": 4225400,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2026-01",
+   "distancia_m": 4640500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2026-02",
+   "distancia_m": 4755100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2026-03",
+   "distancia_m": 4668700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2026-04",
+   "distancia_m": 4270200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2026-05",
+   "distancia_m": 3967200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V20",
+   "mes": "2026-06",
+   "distancia_m": 4815600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2025-07",
+   "distancia_m": 4223900,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2025-08",
+   "distancia_m": 4683200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2025-09",
+   "distancia_m": 4087200,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2025-10",
+   "distancia_m": 4150100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2025-11",
+   "distancia_m": 4692900,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2025-12",
+   "distancia_m": 4041900,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2026-01",
+   "distancia_m": 3709700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2026-02",
+   "distancia_m": 3954200,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2026-03",
+   "distancia_m": 4079200,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2026-04",
+   "distancia_m": 4029000,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2026-05",
+   "distancia_m": 4310200,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V21",
+   "mes": "2026-06",
+   "distancia_m": 4245000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2025-07",
+   "distancia_m": 5485600,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2025-08",
+   "distancia_m": 6135200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2025-09",
+   "distancia_m": 5699700,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2025-10",
+   "distancia_m": 5511900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2025-11",
+   "distancia_m": 4897400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2025-12",
+   "distancia_m": 4772400,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2026-01",
+   "distancia_m": 4157000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2026-02",
+   "distancia_m": 4979100,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2026-03",
+   "distancia_m": 4767300,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2026-04",
+   "distancia_m": 3779500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2026-05",
+   "distancia_m": 5020900,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V22",
+   "mes": "2026-06",
+   "distancia_m": 5587400,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2025-07",
+   "distancia_m": 2601500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2025-08",
+   "distancia_m": 2353900,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2025-09",
+   "distancia_m": 2405800,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2025-10",
+   "distancia_m": 2350300,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2025-11",
+   "distancia_m": 2761200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2025-12",
+   "distancia_m": 2788600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2026-01",
+   "distancia_m": 2121200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2026-02",
+   "distancia_m": 2231100,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2026-03",
+   "distancia_m": 2496600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2026-04",
+   "distancia_m": 2628500,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2026-05",
+   "distancia_m": 2324700,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V23",
+   "mes": "2026-06",
+   "distancia_m": 2751300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2025-07",
+   "distancia_m": 2996600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2025-08",
+   "distancia_m": 2769100,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2025-09",
+   "distancia_m": 2598900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2025-10",
+   "distancia_m": 3314400,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2025-11",
+   "distancia_m": 3132600,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2025-12",
+   "distancia_m": 2797700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2026-01",
+   "distancia_m": 2787600,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2026-02",
+   "distancia_m": 2480300,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2026-03",
+   "distancia_m": 2461800,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2026-04",
+   "distancia_m": 2725600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2026-05",
+   "distancia_m": 3057100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V24",
+   "mes": "2026-06",
+   "distancia_m": 2661500,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2025-07",
+   "distancia_m": 1898500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2025-08",
+   "distancia_m": 1941900,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2025-09",
+   "distancia_m": 1782600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2025-10",
+   "distancia_m": 1895100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2025-11",
+   "distancia_m": 1784200,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2025-12",
+   "distancia_m": 1704400,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2026-01",
+   "distancia_m": 1782600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2026-02",
+   "distancia_m": 1632500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2026-03",
+   "distancia_m": 1689500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2026-04",
+   "distancia_m": 1590700,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2026-05",
+   "distancia_m": 2004100,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V25",
+   "mes": "2026-06",
+   "distancia_m": 1654300,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2025-07",
+   "distancia_m": 2561900,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2025-08",
+   "distancia_m": 2718900,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2025-09",
+   "distancia_m": 2715500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2025-10",
+   "distancia_m": 2528100,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2025-11",
+   "distancia_m": 2246400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2025-12",
+   "distancia_m": 2244300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2026-01",
+   "distancia_m": 2101100,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2026-02",
+   "distancia_m": 2352500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2026-03",
+   "distancia_m": 2243000,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2026-04",
+   "distancia_m": 2550500,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2026-05",
+   "distancia_m": 2458900,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V26",
+   "mes": "2026-06",
+   "distancia_m": 2734600,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2025-07",
+   "distancia_m": 3301000,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2025-08",
+   "distancia_m": 3077500,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2025-09",
+   "distancia_m": 2971800,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2025-10",
+   "distancia_m": 2852000,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2025-11",
+   "distancia_m": 3390800,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2025-12",
+   "distancia_m": 2865000,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2026-01",
+   "distancia_m": 2436300,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2026-02",
+   "distancia_m": 3044600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2026-03",
+   "distancia_m": 2714600,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2026-04",
+   "distancia_m": 2427500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2026-05",
+   "distancia_m": 2858600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V27",
+   "mes": "2026-06",
+   "distancia_m": 2559400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2025-07",
+   "distancia_m": 285900,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2025-08",
+   "distancia_m": 329800,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2025-09",
+   "distancia_m": 316500,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2025-10",
+   "distancia_m": 340400,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2025-11",
+   "distancia_m": 357500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2025-12",
+   "distancia_m": 263900,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2026-01",
+   "distancia_m": 296900,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2026-02",
+   "distancia_m": 338600,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2026-03",
+   "distancia_m": 353100,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2026-04",
+   "distancia_m": 295200,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2026-05",
+   "distancia_m": 316300,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V28",
+   "mes": "2026-06",
+   "distancia_m": 332500,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2025-07",
+   "distancia_m": 393600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2025-08",
+   "distancia_m": 379600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2025-09",
+   "distancia_m": 377100,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2025-10",
+   "distancia_m": 371600,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2025-11",
+   "distancia_m": 341800,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2025-12",
+   "distancia_m": 349800,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2026-01",
+   "distancia_m": 314900,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2026-02",
+   "distancia_m": 361700,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2026-03",
+   "distancia_m": 370600,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2026-04",
+   "distancia_m": 355000,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2026-05",
+   "distancia_m": 362400,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V29",
+   "mes": "2026-06",
+   "distancia_m": 332200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2025-07",
+   "distancia_m": 458200,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2025-08",
+   "distancia_m": 446100,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2025-09",
+   "distancia_m": 567300,
+   "dias_operacao": 21,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2025-10",
+   "distancia_m": 531300,
+   "dias_operacao": 26,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2025-11",
+   "distancia_m": 501900,
+   "dias_operacao": 22,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2025-12",
+   "distancia_m": 479200,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2026-01",
+   "distancia_m": 462900,
+   "dias_operacao": 23,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2026-02",
+   "distancia_m": 493100,
+   "dias_operacao": 25,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2026-03",
+   "distancia_m": 544800,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2026-04",
+   "distancia_m": 478300,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2026-05",
+   "distancia_m": 450500,
+   "dias_operacao": 20,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "B-V30",
+   "mes": "2026-06",
+   "distancia_m": 476100,
+   "dias_operacao": 24,
+   "fonte": "odometro_abastecimento"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2025-07",
+   "distancia_m": 17354700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2025-08",
+   "distancia_m": 15248700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2025-09",
+   "distancia_m": 17774600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2025-10",
+   "distancia_m": 17051700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2025-11",
+   "distancia_m": 16411000,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2025-12",
+   "distancia_m": 14783900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2026-01",
+   "distancia_m": 14171500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2026-02",
+   "distancia_m": 16568800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2026-03",
+   "distancia_m": 14223500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2026-04",
+   "distancia_m": 14314000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2026-05",
+   "distancia_m": 18609400,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V01",
+   "mes": "2026-06",
+   "distancia_m": 18421800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2025-07",
+   "distancia_m": 15956900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2025-08",
+   "distancia_m": 15594400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2025-09",
+   "distancia_m": 17872600,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2025-10",
+   "distancia_m": 18823600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2025-11",
+   "distancia_m": 16455600,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2025-12",
+   "distancia_m": 15842000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2026-01",
+   "distancia_m": 13988100,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2026-02",
+   "distancia_m": 17596000,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2026-03",
+   "distancia_m": 15877300,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2026-04",
+   "distancia_m": 15832200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2026-05",
+   "distancia_m": 14778400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V02",
+   "mes": "2026-06",
+   "distancia_m": 16591400,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2025-07",
+   "distancia_m": 11639900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2025-08",
+   "distancia_m": 10703700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2025-09",
+   "distancia_m": 12007300,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2025-10",
+   "distancia_m": 12552600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2025-11",
+   "distancia_m": 12106000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2025-12",
+   "distancia_m": 10505000,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2026-01",
+   "distancia_m": 10087600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2026-02",
+   "distancia_m": 11379900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2026-03",
+   "distancia_m": 13524900,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2026-04",
+   "distancia_m": 10292200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2026-05",
+   "distancia_m": 12814900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V03",
+   "mes": "2026-06",
+   "distancia_m": 11192500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2025-07",
+   "distancia_m": 10246700,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2025-08",
+   "distancia_m": 10586300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2025-09",
+   "distancia_m": 12367900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2025-10",
+   "distancia_m": 11805800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2025-11",
+   "distancia_m": 11856500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2025-12",
+   "distancia_m": 9569900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2026-01",
+   "distancia_m": 11414900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2026-02",
+   "distancia_m": 8419000,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2026-03",
+   "distancia_m": 10045800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2026-04",
+   "distancia_m": 10967800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2026-05",
+   "distancia_m": 12560900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V04",
+   "mes": "2026-06",
+   "distancia_m": 11404600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2025-07",
+   "distancia_m": 10734100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2025-08",
+   "distancia_m": 8478500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2025-09",
+   "distancia_m": 10602000,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2025-10",
+   "distancia_m": 10680500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2025-11",
+   "distancia_m": 11118500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2025-12",
+   "distancia_m": 8092200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2026-01",
+   "distancia_m": 9176800,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2026-02",
+   "distancia_m": 9983900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2026-03",
+   "distancia_m": 7925800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2026-04",
+   "distancia_m": 10072400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2026-05",
+   "distancia_m": 9020100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V05",
+   "mes": "2026-06",
+   "distancia_m": 7746500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2025-07",
+   "distancia_m": 10586400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2025-08",
+   "distancia_m": 11638500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2025-09",
+   "distancia_m": 12488600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2025-10",
+   "distancia_m": 12355100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2025-11",
+   "distancia_m": 12068900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2025-12",
+   "distancia_m": 10589500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2026-01",
+   "distancia_m": 10510700,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2026-02",
+   "distancia_m": 10207700,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2026-03",
+   "distancia_m": 13310700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2026-04",
+   "distancia_m": 11722400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2026-05",
+   "distancia_m": 11394600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V06",
+   "mes": "2026-06",
+   "distancia_m": 10997800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2025-07",
+   "distancia_m": 12647800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2025-08",
+   "distancia_m": 11179600,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2025-09",
+   "distancia_m": 12509800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2025-10",
+   "distancia_m": 14013500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2025-11",
+   "distancia_m": 14235600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2025-12",
+   "distancia_m": 11798500,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2026-01",
+   "distancia_m": 12292700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2026-02",
+   "distancia_m": 12701300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2026-03",
+   "distancia_m": 12560100,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2026-04",
+   "distancia_m": 12275600,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2026-05",
+   "distancia_m": 11690100,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V07",
+   "mes": "2026-06",
+   "distancia_m": 11066400,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2025-07",
+   "distancia_m": 8813900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2025-08",
+   "distancia_m": 8869400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2025-09",
+   "distancia_m": 9899700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2025-10",
+   "distancia_m": 9271100,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2025-11",
+   "distancia_m": 11897100,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2025-12",
+   "distancia_m": 8898900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2026-01",
+   "distancia_m": 8805400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2026-02",
+   "distancia_m": 9406600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2026-03",
+   "distancia_m": 8910400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2026-04",
+   "distancia_m": 9697500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2026-05",
+   "distancia_m": 9126000,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V08",
+   "mes": "2026-06",
+   "distancia_m": 9800600,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2025-07",
+   "distancia_m": 10590200,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2025-08",
+   "distancia_m": 10836800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2025-09",
+   "distancia_m": 11287400,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2025-10",
+   "distancia_m": 12344200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2025-11",
+   "distancia_m": 10536900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2025-12",
+   "distancia_m": 9968700,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2026-01",
+   "distancia_m": 9294800,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2026-02",
+   "distancia_m": 10348200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2026-03",
+   "distancia_m": 11016500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2026-04",
+   "distancia_m": 10660400,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2026-05",
+   "distancia_m": 10039500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V09",
+   "mes": "2026-06",
+   "distancia_m": 11537900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2025-07",
+   "distancia_m": 15595900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2025-08",
+   "distancia_m": 11989900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2025-09",
+   "distancia_m": 12605800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2025-10",
+   "distancia_m": 14136600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2025-11",
+   "distancia_m": 13961600,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2025-12",
+   "distancia_m": 11957500,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2026-01",
+   "distancia_m": 11291000,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2026-02",
+   "distancia_m": 10987800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2026-03",
+   "distancia_m": 12186700,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2026-04",
+   "distancia_m": 12555300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2026-05",
+   "distancia_m": 10481300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V10",
+   "mes": "2026-06",
+   "distancia_m": 12776600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2025-07",
+   "distancia_m": 9383900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2025-08",
+   "distancia_m": 8337200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2025-09",
+   "distancia_m": 9392800,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2025-10",
+   "distancia_m": 8882600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2025-11",
+   "distancia_m": 8595600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2025-12",
+   "distancia_m": 7876400,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2026-01",
+   "distancia_m": 9806000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2026-02",
+   "distancia_m": 8921300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2026-03",
+   "distancia_m": 10192200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2026-04",
+   "distancia_m": 9512200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2026-05",
+   "distancia_m": 9937300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V11",
+   "mes": "2026-06",
+   "distancia_m": 10062500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2025-07",
+   "distancia_m": 11349200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2025-08",
+   "distancia_m": 10482100,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2025-09",
+   "distancia_m": 12134800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2025-10",
+   "distancia_m": 12309800,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2025-11",
+   "distancia_m": 13850300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2025-12",
+   "distancia_m": 11169200,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2026-01",
+   "distancia_m": 10337300,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2026-02",
+   "distancia_m": 12228000,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2026-03",
+   "distancia_m": 11666900,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2026-04",
+   "distancia_m": 13691000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2026-05",
+   "distancia_m": 11285200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V12",
+   "mes": "2026-06",
+   "distancia_m": 11158900,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2025-07",
+   "distancia_m": 9692100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2025-08",
+   "distancia_m": 9945100,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2025-09",
+   "distancia_m": 9703000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2025-10",
+   "distancia_m": 10871600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2025-11",
+   "distancia_m": 9685100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2025-12",
+   "distancia_m": 7719300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2026-01",
+   "distancia_m": 7213400,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2026-02",
+   "distancia_m": 9146900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2026-03",
+   "distancia_m": 8925500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2026-04",
+   "distancia_m": 9717700,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2026-05",
+   "distancia_m": 9773000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V13",
+   "mes": "2026-06",
+   "distancia_m": 8526800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2025-07",
+   "distancia_m": 12263800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2025-08",
+   "distancia_m": 9728200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2025-09",
+   "distancia_m": 10926100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2025-10",
+   "distancia_m": 10965800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2025-11",
+   "distancia_m": 11887700,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2025-12",
+   "distancia_m": 10067300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2026-01",
+   "distancia_m": 10697200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2026-02",
+   "distancia_m": 10861200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2026-03",
+   "distancia_m": 12195800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2026-04",
+   "distancia_m": 10409800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2026-05",
+   "distancia_m": 11525300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V14",
+   "mes": "2026-06",
+   "distancia_m": 9409200,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2025-07",
+   "distancia_m": 10172500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2025-08",
+   "distancia_m": 10844800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2025-09",
+   "distancia_m": 10795900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2025-10",
+   "distancia_m": 11144900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2025-11",
+   "distancia_m": 10792700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2025-12",
+   "distancia_m": 9860100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2026-01",
+   "distancia_m": 9228100,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2026-02",
+   "distancia_m": 8594800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2026-03",
+   "distancia_m": 12344200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2026-04",
+   "distancia_m": 11254200,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2026-05",
+   "distancia_m": 11230100,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V15",
+   "mes": "2026-06",
+   "distancia_m": 8792800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2025-07",
+   "distancia_m": 10007500,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2025-08",
+   "distancia_m": 9514600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2025-09",
+   "distancia_m": 11427900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2025-10",
+   "distancia_m": 9868100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2025-11",
+   "distancia_m": 10883300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2025-12",
+   "distancia_m": 6923600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2026-01",
+   "distancia_m": 9576700,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2026-02",
+   "distancia_m": 9405700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2026-03",
+   "distancia_m": 9567300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2026-04",
+   "distancia_m": 9620500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2026-05",
+   "distancia_m": 8954200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V16",
+   "mes": "2026-06",
+   "distancia_m": 8835900,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2025-07",
+   "distancia_m": 10012500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2025-08",
+   "distancia_m": 12443100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2025-09",
+   "distancia_m": 10659600,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2025-10",
+   "distancia_m": 10059000,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2025-11",
+   "distancia_m": 12311600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2025-12",
+   "distancia_m": 10969000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2026-01",
+   "distancia_m": 9245100,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2026-02",
+   "distancia_m": 10283700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2026-03",
+   "distancia_m": 10380500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2026-04",
+   "distancia_m": 10894100,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2026-05",
+   "distancia_m": 9462100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V17",
+   "mes": "2026-06",
+   "distancia_m": 9943400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2025-07",
+   "distancia_m": 8888900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2025-08",
+   "distancia_m": 9381200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2025-09",
+   "distancia_m": 9728600,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2025-10",
+   "distancia_m": 10556400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2025-11",
+   "distancia_m": 10367500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2025-12",
+   "distancia_m": 9261600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2026-01",
+   "distancia_m": 8307200,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2026-02",
+   "distancia_m": 7956900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2026-03",
+   "distancia_m": 9255200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2026-04",
+   "distancia_m": 8817800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2026-05",
+   "distancia_m": 9216100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V18",
+   "mes": "2026-06",
+   "distancia_m": 9294100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2025-07",
+   "distancia_m": 10865800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2025-08",
+   "distancia_m": 13100900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2025-09",
+   "distancia_m": 10890300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2025-10",
+   "distancia_m": 10967100,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2025-11",
+   "distancia_m": 12498400,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2025-12",
+   "distancia_m": 11747500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2026-01",
+   "distancia_m": 10124700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2026-02",
+   "distancia_m": 10243400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2026-03",
+   "distancia_m": 11250900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2026-04",
+   "distancia_m": 12506500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2026-05",
+   "distancia_m": 11461200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V19",
+   "mes": "2026-06",
+   "distancia_m": 10721600,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2025-07",
+   "distancia_m": 10409400,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2025-08",
+   "distancia_m": 10772100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2025-09",
+   "distancia_m": 12841200,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2025-10",
+   "distancia_m": 12114000,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2025-11",
+   "distancia_m": 11195800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2025-12",
+   "distancia_m": 9737200,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2026-01",
+   "distancia_m": 10292000,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2026-02",
+   "distancia_m": 12260500,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2026-03",
+   "distancia_m": 11122400,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2026-04",
+   "distancia_m": 10185600,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2026-05",
+   "distancia_m": 10558700,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V20",
+   "mes": "2026-06",
+   "distancia_m": 11139500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2025-07",
+   "distancia_m": 11473500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2025-08",
+   "distancia_m": 13090200,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2025-09",
+   "distancia_m": 11519800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2025-10",
+   "distancia_m": 14373200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2025-11",
+   "distancia_m": 12552100,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2025-12",
+   "distancia_m": 11825400,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2026-01",
+   "distancia_m": 11453300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2026-02",
+   "distancia_m": 11097400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2026-03",
+   "distancia_m": 12034000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2026-04",
+   "distancia_m": 13119700,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2026-05",
+   "distancia_m": 12493800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V21",
+   "mes": "2026-06",
+   "distancia_m": 12884800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2025-07",
+   "distancia_m": 12310800,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2025-08",
+   "distancia_m": 12411600,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2025-09",
+   "distancia_m": 11769000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2025-10",
+   "distancia_m": 13916100,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2025-11",
+   "distancia_m": 13698800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2025-12",
+   "distancia_m": 9595600,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2026-01",
+   "distancia_m": 10869800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2026-02",
+   "distancia_m": 11045500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2026-03",
+   "distancia_m": 10892200,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2026-04",
+   "distancia_m": 12416000,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2026-05",
+   "distancia_m": 11963000,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V22",
+   "mes": "2026-06",
+   "distancia_m": 11172700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2025-07",
+   "distancia_m": 10505900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2025-08",
+   "distancia_m": 9093500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2025-09",
+   "distancia_m": 11883400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2025-10",
+   "distancia_m": 10904800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2025-11",
+   "distancia_m": 10438300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2025-12",
+   "distancia_m": 10168700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2026-01",
+   "distancia_m": 9487200,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2026-02",
+   "distancia_m": 10259400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2026-03",
+   "distancia_m": 10318300,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2026-04",
+   "distancia_m": 10515300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2026-05",
+   "distancia_m": 11472700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V23",
+   "mes": "2026-06",
+   "distancia_m": 10326300,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2025-07",
+   "distancia_m": 8949500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2025-08",
+   "distancia_m": 11450900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2025-09",
+   "distancia_m": 9906800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2025-10",
+   "distancia_m": 10415700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2025-11",
+   "distancia_m": 9940300,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2025-12",
+   "distancia_m": 9190900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2026-01",
+   "distancia_m": 8666000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2026-02",
+   "distancia_m": 8650800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2026-03",
+   "distancia_m": 10648100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2026-04",
+   "distancia_m": 9376100,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2026-05",
+   "distancia_m": 9737700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V24",
+   "mes": "2026-06",
+   "distancia_m": 9738400,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2025-07",
+   "distancia_m": 8685800,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2025-08",
+   "distancia_m": 10808800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2025-09",
+   "distancia_m": 9497400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2025-10",
+   "distancia_m": 10546700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2025-11",
+   "distancia_m": 10008000,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2025-12",
+   "distancia_m": 7494900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2026-01",
+   "distancia_m": 7913300,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2026-02",
+   "distancia_m": 9721900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2026-03",
+   "distancia_m": 8900700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2026-04",
+   "distancia_m": 9925700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2026-05",
+   "distancia_m": 10883800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V25",
+   "mes": "2026-06",
+   "distancia_m": 11260700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2025-07",
+   "distancia_m": 12612700,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2025-08",
+   "distancia_m": 13072600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2025-09",
+   "distancia_m": 11972600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2025-10",
+   "distancia_m": 10781500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2025-11",
+   "distancia_m": 13061000,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2025-12",
+   "distancia_m": 10257800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2026-01",
+   "distancia_m": 10378900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2026-02",
+   "distancia_m": 10769200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2026-03",
+   "distancia_m": 13690700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2026-04",
+   "distancia_m": 11504300,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2026-05",
+   "distancia_m": 10674500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V26",
+   "mes": "2026-06",
+   "distancia_m": 11283000,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2025-07",
+   "distancia_m": 12731900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2025-08",
+   "distancia_m": 11547900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2025-09",
+   "distancia_m": 11401800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2025-10",
+   "distancia_m": 13744300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2025-11",
+   "distancia_m": 14200100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2025-12",
+   "distancia_m": 10759200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2026-01",
+   "distancia_m": 11530600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2026-02",
+   "distancia_m": 11293200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2026-03",
+   "distancia_m": 12263300,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2026-04",
+   "distancia_m": 12562900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2026-05",
+   "distancia_m": 12115200,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V27",
+   "mes": "2026-06",
+   "distancia_m": 12056500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2025-07",
+   "distancia_m": 9311400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2025-08",
+   "distancia_m": 9677300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2025-09",
+   "distancia_m": 12009000,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2025-10",
+   "distancia_m": 9680400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2025-11",
+   "distancia_m": 11234700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2025-12",
+   "distancia_m": 10731800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2026-01",
+   "distancia_m": 9369900,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2026-02",
+   "distancia_m": 10071000,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2026-03",
+   "distancia_m": 9620500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2026-04",
+   "distancia_m": 8796000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2026-05",
+   "distancia_m": 10788800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V28",
+   "mes": "2026-06",
+   "distancia_m": 9258100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2025-07",
+   "distancia_m": 7457600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2025-08",
+   "distancia_m": 9043600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2025-09",
+   "distancia_m": 9420700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2025-10",
+   "distancia_m": 9234200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2025-11",
+   "distancia_m": 9060700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2025-12",
+   "distancia_m": 8071100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2026-01",
+   "distancia_m": 8750800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2026-02",
+   "distancia_m": 7716400,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2026-03",
+   "distancia_m": 8575200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2026-04",
+   "distancia_m": 8914200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2026-05",
+   "distancia_m": 8800700,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V29",
+   "mes": "2026-06",
+   "distancia_m": 10420300,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2025-07",
+   "distancia_m": 6709600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2025-08",
+   "distancia_m": 7016300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2025-09",
+   "distancia_m": 7372200,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2025-10",
+   "distancia_m": 8086900,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2025-11",
+   "distancia_m": 7818900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2025-12",
+   "distancia_m": 6634600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2026-01",
+   "distancia_m": 5387500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2026-02",
+   "distancia_m": 7300600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2026-03",
+   "distancia_m": 6678800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2026-04",
+   "distancia_m": 6874300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2026-05",
+   "distancia_m": 7498500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V30",
+   "mes": "2026-06",
+   "distancia_m": 6141700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2025-07",
+   "distancia_m": 8468200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2025-08",
+   "distancia_m": 8496200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2025-09",
+   "distancia_m": 8202900,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2025-10",
+   "distancia_m": 9061200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2025-11",
+   "distancia_m": 8524900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2025-12",
+   "distancia_m": 8591600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2026-01",
+   "distancia_m": 7538100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2026-02",
+   "distancia_m": 7805800,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2026-03",
+   "distancia_m": 8036300,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2026-04",
+   "distancia_m": 8541500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2026-05",
+   "distancia_m": 9677100,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V31",
+   "mes": "2026-06",
+   "distancia_m": 9910500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2025-07",
+   "distancia_m": 8154600,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2025-08",
+   "distancia_m": 8701100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2025-09",
+   "distancia_m": 7126600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2025-10",
+   "distancia_m": 7908300,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2025-11",
+   "distancia_m": 9331800,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2025-12",
+   "distancia_m": 6579300,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2026-01",
+   "distancia_m": 7059500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2026-02",
+   "distancia_m": 7485000,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2026-03",
+   "distancia_m": 7051200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2026-04",
+   "distancia_m": 7236900000,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2026-05",
+   "distancia_m": 8060900,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V32",
+   "mes": "2026-06",
+   "distancia_m": 6475400,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2025-07",
+   "distancia_m": 6955000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2025-08",
+   "distancia_m": 7162500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2025-09",
+   "distancia_m": 6422600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2025-10",
+   "distancia_m": 7120300,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2025-11",
+   "distancia_m": 8959200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2025-12",
+   "distancia_m": 5830500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2026-01",
+   "distancia_m": 7015700,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2026-02",
+   "distancia_m": 6659500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2026-03",
+   "distancia_m": 6927500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2026-04",
+   "distancia_m": 7553200,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2026-05",
+   "distancia_m": 6136700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V33",
+   "mes": "2026-06",
+   "distancia_m": 7512300,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2025-07",
+   "distancia_m": 7907800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2025-08",
+   "distancia_m": 7710700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2025-09",
+   "distancia_m": 7971000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2025-10",
+   "distancia_m": 7763200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2025-11",
+   "distancia_m": 10418400,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2025-12",
+   "distancia_m": 7482600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2026-01",
+   "distancia_m": 7845600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2026-02",
+   "distancia_m": 6744700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2026-03",
+   "distancia_m": 7403300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2026-04",
+   "distancia_m": 7337800,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2026-05",
+   "distancia_m": 7844400,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V34",
+   "mes": "2026-06",
+   "distancia_m": 7633800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2025-07",
+   "distancia_m": 6288800,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2025-08",
+   "distancia_m": 7737300,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2025-09",
+   "distancia_m": 6893600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2025-10",
+   "distancia_m": 6777700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2025-11",
+   "distancia_m": 7261900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2025-12",
+   "distancia_m": 6935500,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2026-01",
+   "distancia_m": 6229900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2026-02",
+   "distancia_m": 6860600,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2026-03",
+   "distancia_m": 7978200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2026-04",
+   "distancia_m": 7249900,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2026-05",
+   "distancia_m": 7311700,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V35",
+   "mes": "2026-06",
+   "distancia_m": 6653700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2025-07",
+   "distancia_m": 6073400,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2025-08",
+   "distancia_m": 6668900,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2025-09",
+   "distancia_m": 6670300,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2025-10",
+   "distancia_m": 7488800,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2025-11",
+   "distancia_m": 8252100,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2025-12",
+   "distancia_m": 6171600,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2026-01",
+   "distancia_m": 6083800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2026-02",
+   "distancia_m": 6046200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2026-03",
+   "distancia_m": 7466100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2026-04",
+   "distancia_m": 7198800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2026-05",
+   "distancia_m": 7166700,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V36",
+   "mes": "2026-06",
+   "distancia_m": 6689200,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2025-07",
+   "distancia_m": 5626300,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2025-08",
+   "distancia_m": 7121700,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2025-09",
+   "distancia_m": 7725500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2025-10",
+   "distancia_m": 6687300,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2025-11",
+   "distancia_m": 8068800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2025-12",
+   "distancia_m": 6584900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2026-01",
+   "distancia_m": 7240500,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2026-02",
+   "distancia_m": 6814900,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2026-03",
+   "distancia_m": 6947800,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2026-04",
+   "distancia_m": 6853200,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2026-05",
+   "distancia_m": 8422100,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V37",
+   "mes": "2026-06",
+   "distancia_m": 7019000,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2025-07",
+   "distancia_m": 8810500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2025-08",
+   "distancia_m": 7380500,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2025-09",
+   "distancia_m": 8842300,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2025-10",
+   "distancia_m": 7752300,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2025-11",
+   "distancia_m": 9507400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2025-12",
+   "distancia_m": 7656600,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2026-01",
+   "distancia_m": 7034500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2026-02",
+   "distancia_m": 7481200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2026-03",
+   "distancia_m": 8495100,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2026-04",
+   "distancia_m": 7730600,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2026-05",
+   "distancia_m": 8167500,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V38",
+   "mes": "2026-06",
+   "distancia_m": 7980600,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2025-07",
+   "distancia_m": 7461900,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2025-08",
+   "distancia_m": 8684200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2025-09",
+   "distancia_m": 8342100,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2025-10",
+   "distancia_m": 9406200,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2025-11",
+   "distancia_m": 7823000,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2025-12",
+   "distancia_m": 7192400,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2026-01",
+   "distancia_m": 7699300,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2026-02",
+   "distancia_m": 6753100,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2026-03",
+   "distancia_m": 7700600,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2026-04",
+   "distancia_m": 7252900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2026-05",
+   "distancia_m": 9317700,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V39",
+   "mes": "2026-06",
+   "distancia_m": 8299800,
+   "dias_operacao": 21,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2025-07",
+   "distancia_m": 7377000,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2025-08",
+   "distancia_m": 5986200,
+   "dias_operacao": 25,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2025-09",
+   "distancia_m": 6653400,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2025-10",
+   "distancia_m": 4749500,
+   "dias_operacao": 23,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2025-11",
+   "distancia_m": 6757000,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2025-12",
+   "distancia_m": 5196100,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2026-01",
+   "distancia_m": 4792500,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2026-02",
+   "distancia_m": 5937200,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2026-03",
+   "distancia_m": 6263900,
+   "dias_operacao": 24,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2026-04",
+   "distancia_m": 5837100,
+   "dias_operacao": 20,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2026-05",
+   "distancia_m": 5959600,
+   "dias_operacao": 22,
+   "fonte": "telemetria"
+  },
+  {
+   "veiculo": "C-V40",
+   "mes": "2026-06",
+   "distancia_m": 6111400,
+   "dias_operacao": 26,
+   "fonte": "telemetria"
+  }
+ ]
+}

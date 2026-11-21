@@ -1,0 +1,4 @@
+frota_id,empresa_id,nome,modalidade_operacional,uf_operacao_principal,ativa
+FRO-A1,EMP-A,Equipe técnica metropolitana,urbana_servicos,SP,True
+FRO-B1,EMP-B,Distribuição regional,distribuicao_regional,SP,True
+FRO-C1,EMP-C,Rodoviário de longa distância,rodoviario_longa_distancia,SP,True

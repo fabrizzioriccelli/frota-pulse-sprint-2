@@ -1,0 +1,4 @@
+empresa_id,razao_social,segmento,porte_frota,uf_sede,data_cadastro
+EMP-A,Empresa Sintética A - Serviços Técnicos (fictícia),servicos_tecnicos,pequena,SP,2025-10-01
+EMP-B,Empresa Sintética B - Distribuição (fictícia),distribuicao,media,SP,2025-07-01
+EMP-C,Empresa Sintética C - Transporte Rodoviário (fictícia),transporte_carga,grande,SP,2025-07-01

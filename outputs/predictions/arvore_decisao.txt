@@ -1,0 +1,22 @@
+|--- pct_marcha_lenta <= 10.8
+|   |--- pct_excesso_velocidade <= 7.5
+|   |   |--- pct_rpm_acima_verde <= 28.4
+|   |   |   |--- class: 0
+|   |   |--- pct_rpm_acima_verde >  28.4
+|   |   |   |--- class: 0
+|   |--- pct_excesso_velocidade >  7.5
+|   |   |--- idade_anos <= 6.5
+|   |   |   |--- class: 1
+|   |   |--- idade_anos >  6.5
+|   |   |   |--- class: 0
+|--- pct_marcha_lenta >  10.8
+|   |--- pct_rpm_acima_verde <= 30.3
+|   |   |--- pct_marcha_lenta <= 15.9
+|   |   |   |--- class: 0
+|   |   |--- pct_marcha_lenta >  15.9
+|   |   |   |--- class: 1
+|   |--- pct_rpm_acima_verde >  30.3
+|   |   |--- grupo_LEVE_MISTA_UTILITARIO <= 0.5
+|   |   |   |--- class: 1
+|   |   |--- grupo_LEVE_MISTA_UTILITARIO >  0.5
+|   |   |   |--- class: 0

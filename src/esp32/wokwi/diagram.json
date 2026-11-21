@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "author": "Grupo Frota Pulse (FIAP 1TIAO)",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-devkit-c-v4",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-potentiometer",
+      "id": "pot_vel",
+      "top": -160,
+      "left": -280,
+      "attrs": {
+        "value": "350"
+      }
+    },
+    {
+      "type": "wokwi-potentiometer",
+      "id": "pot_rpm",
+      "top": -160,
+      "left": -170,
+      "attrs": {
+        "value": "460"
+      }
+    },
+    {
+      "type": "wokwi-potentiometer",
+      "id": "pot_temp",
+      "top": -160,
+      "left": -60,
+      "attrs": {
+        "value": "560"
+      }
+    },
+    {
+      "type": "wokwi-slide-potentiometer",
+      "id": "pot_comb",
+      "top": 250,
+      "left": -300,
+      "attrs": {
+        "travelLength": "30",
+        "value": "600"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn_modo",
+      "top": 160,
+      "left": -200,
+      "attrs": {
+        "color": "blue",
+        "label": "Modo"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn_veic",
+      "top": 220,
+      "left": -200,
+      "attrs": {
+        "color": "white",
+        "label": "Veiculo"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_verde",
+      "top": -40,
+      "left": 200,
+      "attrs": {
+        "color": "limegreen",
+        "label": "Normal"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_amarelo",
+      "top": -40,
+      "left": 250,
+      "attrs": {
+        "color": "yellow",
+        "label": "Atencao"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_vermelho",
+      "top": -40,
+      "left": 300,
+      "attrs": {
+        "color": "red",
+        "label": "Critico"
+      }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 60,
+      "left": 190,
+      "rotate": 90,
+      "attrs": {
+        "value": "220"
+      }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": 60,
+      "left": 240,
+      "rotate": 90,
+      "attrs": {
+        "value": "220"
+      }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r3",
+      "top": 60,
+      "left": 290,
+      "rotate": 90,
+      "attrs": {
+        "value": "220"
+      }
+    },
+    {
+      "type": "wokwi-buzzer",
+      "id": "buzzer",
+      "top": 120,
+      "left": 340,
+      "attrs": {
+        "volume": "0.2"
+      }
+    }
+  ],
+  "connections": [
+    [
+      "esp:TX",
+      "$serialMonitor:RX",
+      "",
+      []
+    ],
+    [
+      "esp:RX",
+      "$serialMonitor:TX",
+      "",
+      []
+    ],
+    [
+      "pot_vel:SIG",
+      "esp:34",
+      "green",
+      []
+    ],
+    [
+      "pot_rpm:SIG",
+      "esp:35",
+      "green",
+      []
+    ],
+    [
+      "pot_temp:SIG",
+      "esp:32",
+      "green",
+      []
+    ],
+    [
+      "pot_comb:SIG",
+      "esp:33",
+      "green",
+      []
+    ],
+    [
+      "pot_vel:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "pot_rpm:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "pot_temp:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "pot_comb:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "pot_vel:GND",
+      "esp:GND.1",
+      "black",
+      []
+    ],
+    [
+      "pot_rpm:GND",
+      "esp:GND.1",
+      "black",
+      []
+    ],
+    [
+      "pot_temp:GND",
+      "esp:GND.1",
+      "black",
+      []
+    ],
+    [
+      "pot_comb:GND",
+      "esp:GND.1",
+      "black",
+      []
+    ],
+    [
+      "btn_modo:1.l",
+      "esp:4",
+      "blue",
+      []
+    ],
+    [
+      "btn_modo:2.l",
+      "esp:GND.2",
+      "black",
+      []
+    ],
+    [
+      "btn_veic:1.l",
+      "esp:5",
+      "gray",
+      []
+    ],
+    [
+      "btn_veic:2.l",
+      "esp:GND.2",
+      "black",
+      []
+    ],
+    [
+      "esp:25",
+      "r1:1",
+      "limegreen",
+      []
+    ],
+    [
+      "r1:2",
+      "led_verde:A",
+      "limegreen",
+      []
+    ],
+    [
+      "led_verde:C",
+      "esp:GND.3",
+      "black",
+      []
+    ],
+    [
+      "esp:26",
+      "r2:1",
+      "gold",
+      []
+    ],
+    [
+      "r2:2",
+      "led_amarelo:A",
+      "gold",
+      []
+    ],
+    [
+      "led_amarelo:C",
+      "esp:GND.3",
+      "black",
+      []
+    ],
+    [
+      "esp:27",
+      "r3:1",
+      "red",
+      []
+    ],
+    [
+      "r3:2",
+      "led_vermelho:A",
+      "red",
+      []
+    ],
+    [
+      "led_vermelho:C",
+      "esp:GND.3",
+      "black",
+      []
+    ],
+    [
+      "esp:14",
+      "buzzer:2",
+      "purple",
+      []
+    ],
+    [
+      "buzzer:1",
+      "esp:GND.3",
+      "black",
+      []
+    ]
+  ],
+  "dependencies": {}
+}

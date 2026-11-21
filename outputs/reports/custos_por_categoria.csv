@@ -1,0 +1,43 @@
+grupo,categoria,custo_brl,participacao_pct
+Leve mista (utilitário),COMBUSTIVEL,111702.3700,46.5300
+Leve mista (utilitário),MANUTENCAO,38318.6900,15.9600
+Leve mista (utilitário),PEDAGIO,15177.3100,6.3200
+Leve mista (utilitário),MULTAS,2527.5500,1.0500
+Leve mista (utilitário),IMPOSTOS,13829.8100,5.7600
+Leve mista (utilitário),OUTROS,58509.8600,24.3700
+Leve urbana (automóvel),COMBUSTIVEL,20161.4100,31.5100
+Leve urbana (automóvel),MANUTENCAO,630.8200,0.9900
+Leve urbana (automóvel),PEDAGIO,1328.3300,2.0800
+Leve urbana (automóvel),MULTAS,0.0000,0.0000
+Leve urbana (automóvel),IMPOSTOS,0.0000,0.0000
+Leve urbana (automóvel),OUTROS,41862.2900,65.4300
+Leve urbana (utilitário),COMBUSTIVEL,35492.4100,84.2200
+Leve urbana (utilitário),MANUTENCAO,4269.9500,10.1300
+Leve urbana (utilitário),PEDAGIO,2011.8500,4.7700
+Leve urbana (utilitário),MULTAS,0.0000,0.0000
+Leve urbana (utilitário),IMPOSTOS,0.0000,0.0000
+Leve urbana (utilitário),OUTROS,368.8500,0.8800
+Média mista (VUC),COMBUSTIVEL,374770.3200,52.3200
+Média mista (VUC),MANUTENCAO,169175.5800,23.6200
+Média mista (VUC),PEDAGIO,67792.1200,9.4600
+Média mista (VUC),MULTAS,1905.9100,0.2700
+Média mista (VUC),IMPOSTOS,28851.3000,4.0300
+Média mista (VUC),OUTROS,73861.6100,10.3100
+Média mista (caminhão toco),COMBUSTIVEL,864421.3500,62.8000
+Média mista (caminhão toco),MANUTENCAO,274500.1300,19.9400
+Média mista (caminhão toco),PEDAGIO,111438.1600,8.1000
+Média mista (caminhão toco),MULTAS,2220.7800,0.1600
+Média mista (caminhão toco),IMPOSTOS,35760.1200,2.6000
+Média mista (caminhão toco),OUTROS,88035.4200,6.4000
+Pesada rodoviária (cavalo mecânico),COMBUSTIVEL,9574374.8000,69.5500
+Pesada rodoviária (cavalo mecânico),MANUTENCAO,2817750.4100,20.4700
+Pesada rodoviária (cavalo mecânico),PEDAGIO,695384.7200,5.0500
+Pesada rodoviária (cavalo mecânico),MULTAS,2581.8800,0.0200
+Pesada rodoviária (cavalo mecânico),IMPOSTOS,215772.2200,1.5700
+Pesada rodoviária (cavalo mecânico),OUTROS,461192.6800,3.3500
+Pesada rodoviária (truck),COMBUSTIVEL,1909642.5000,68.4600
+Pesada rodoviária (truck),MANUTENCAO,527694.1700,18.9200
+Pesada rodoviária (truck),PEDAGIO,99741.6300,3.5800
+Pesada rodoviária (truck),MULTAS,1606.5400,0.0600
+Pesada rodoviária (truck),IMPOSTOS,53204.5500,1.9100
+Pesada rodoviária (truck),OUTROS,197654.0000,7.0900

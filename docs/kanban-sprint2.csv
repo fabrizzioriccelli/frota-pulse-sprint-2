@@ -1,0 +1,31 @@
+id,atividade,status,responsavel,prioridade,dependencias,entregavel
+S2-01,Auditoria da Sprint 1 e matriz de aderência,Em revisão,Fabrizzio Riccelli,Alta,-,docs/auditoria-sprint1.md
+S2-02,"Fontes simuladas em CSV, TXT e JSON com gabarito de inconsistências",Em revisão,Gabriel Tamais,Alta,S2-01,"data/raw/, src/simulacao/gerar_fontes_brutas.py"
+S2-03,Ingestão e normalização dos arquivos,Em revisão,Gabriel Tamais,Alta,S2-02,"src/frota_pulse/ingestao.py, normalizacao.py"
+S2-04,Verificações de qualidade e relatório de inconsistências,Em revisão,Gabriel Tamais,Alta,S2-03,outputs/reports/relatorio_qualidade.csv e .md
+S2-05,"Integração de cadastro, custos e telemetria por veículo-mês",Em revisão,Gabriel Tamais,Alta,"S2-04, S2-07",data/processed/base_consolidada_veiculo_mes.csv
+S2-06,Firmware do ESP32 e projeto Wokwi com detecção de anomalias,Em revisão,Fabio Guntovitch,Alta,S2-01,"src/esp32/firmware/, src/esp32/wokwi/diagram.json"
+S2-07,CSV de telemetria e evidências do Monitor Serial,Em revisão,Fabio Guntovitch,Alta,S2-06,"data/telemetria/telemetria_esp32.csv, docs/evidencias/"
+S2-08,"Indicadores de custo, consumo e participação",Em revisão,Natasha Zonta,Alta,S2-05,src/frota_pulse/indicadores.py
+S2-09,Benchmark por grupos comparáveis e gaps com direção,Em revisão,Natasha Zonta,Alta,S2-08,"outputs/reports/benchmark_grupos.csv, ranking_gap_*.csv"
+S2-10,"Diagnóstico por regras (Eficiente, Atenção, Ineficiente)",Em revisão,Natasha Zonta,Alta,S2-09,outputs/reports/indicadores_e_diagnostico_veiculo.csv
+S2-11,"Modelo supervisionado: treino, teste e avaliação",Em revisão,Natasha Zonta,Alta,"S2-07, S2-09","outputs/predictions/, docs/machine-learning.md"
+S2-12,Comparação entre regras e modelo,Em revisão,Natasha Zonta,Média,"S2-10, S2-11",outputs/reports/comparacao_regras_ml.csv
+S2-13,Testes automatizados e conferências manuais,Em revisão,Fabio Guntovitch,Alta,S2-03 a S2-12,"tests/, docs/testes.md"
+S2-14,Diagrama de arquitetura da Sprint 2,Em revisão,Fabio Guntovitch,Média,S2-05,docs/arquitetura.md
+S2-15,Gráficos e notebook de demonstração,Em revisão,Bruna Collavite,Média,S2-12,"outputs/charts/, notebooks/sprint2_demonstracao.ipynb"
+S2-16,"README no template 2026, metodologia e dicionário da Sprint 2",Em revisão,Fabrizzio Riccelli,Alta,S2-01 a S2-15,"README.md, docs/, data/dicionario-dados-sprint2.csv"
+S2-17,"Roteiro, storyboard e versões do vídeo (base limpa e com legendas)",Em revisão,Bruna Collavite,Alta,S2-15,Arquivos de vídeo entregues ao grupo
+S2-18,Compilar e executar o projeto no Wokwi e registrar as evidências,Em revisão,Fabio Guntovitch,Alta,S2-06,"docs/evidencias/wokwi/ (capturas, gravação e Monitor Serial); link público depende de conta no Wokwi"
+S2-19,Gravar a narração e publicar o vídeo no YouTube como não listado,A fazer,Bruna Collavite,Alta,"S2-17, S2-18",Link do vídeo
+S2-20,Revisão do grupo: cada um revisa a parte do seu papel,A fazer,Todos,Alta,S2-16,Comentários e ajustes em commits próprios
+S2-21,Convidar fiap-tutoria e integrantes no repositório da Sprint 2 (aceite em até 7 dias),A fazer,Fabrizzio Riccelli,Alta,-,Settings > Collaborators
+S2-22,Colocar o link do vídeo no README e no ENTREGA_SPRINT2_LINKS.txt e entregar no portal,A fazer,Fabrizzio Riccelli,Alta,"S2-19, S2-21",ENTREGA_SPRINT2_LINKS.txt
+S3-01,Extração de PDF e imagem (OCR) na ingestão,Backlog,Gabriel Tamais,Alta,S2-03,Sprint 3
+S3-02,Cálculo da economia em R$ por cenário a partir dos gaps,Backlog,Natasha Zonta,Alta,S2-10,Sprint 3
+S3-03,Motor de recomendações ligado ao portfólio Sem Parar Empresas,Backlog,Fabrizzio Riccelli,Alta,S3-02,Sprint 3
+S3-04,Referências externas no benchmark (preço da ANP),Backlog,Natasha Zonta,Média,S2-09,Sprint 3
+S3-05,Recalibrar limites por grupo e validação cruzada do modelo,Backlog,Natasha Zonta,Média,S2-11,Sprint 3
+S3-06,Envio contínuo da telemetria do ESP32 (Wi-Fi/MQTT),Backlog,Fabio Guntovitch,Média,S2-06,Sprint 3
+S3-07,Estimativa progressiva com dados incompletos integrada ao pipeline,Backlog,Natasha Zonta,Média,S2-05,Sprint 3
+S3-08,Interface e relatório executivo,Backlog,Bruna Collavite,Média,S3-02,Sprint 3

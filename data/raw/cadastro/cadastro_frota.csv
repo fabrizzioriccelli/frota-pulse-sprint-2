@@ -1,0 +1,80 @@
+codigo_veiculo,empresa,codigo_frota,frota,categoria,porte,modalidade_operacional,ano_fabricacao,propriedade,combustivel,capacidade_tanque_l,eixos,possui_tag,situacao
+A-V01,EMP-A,FRO-A1,Equipe técnica metropolitana,UTIL_LEVE,leve,urbana_servicos,2022,propria,gasolina,55,2,sim,ativo
+A-V02,EMP-A,FRO-A1,Equipe técnica metropolitana,UTIL_LEVE,leve,urbana_servicos,2021,propria,gasolina,55,2,sim,ativo
+A-V03,EMP-A,FRO-A1,Equipe técnica metropolitana,UTIL_LEVE,leve,urbana_servicos,2022,propria,gasolina,55,2,sim,ativo
+A-V04,EMP-A,FRO-A1,Equipe técnica metropolitana,UTIL_LEVE,leve,urbana_servicos,2022,propria,gasolina,55,2,sim,ativo
+A-V05,EMP-A,FRO-A1,Equipe técnica metropolitana,LEVE_PASSEIO,leve,urbana_servicos,2020,propria,gasolina,50,2,sim,ativo
+A-V06,EMP-A,FRO-A1,Equipe técnica metropolitana,LEVE_PASSEIO,leve,urbana_servicos,2022,propria,gasolina,50,2,sim,ativo
+A-V07,EMP-A,FRO-A1,Equipe técnica metropolitana,LEVE_PASSEIO,leve,urbana_servicos,2024,locada,gasolina,50,2,sim,ativo
+A-V08,EMP-A,FRO-A1,Equipe técnica metropolitana,LEVE_PASSEIO,leve,urbana_servicos,2024,locada,gasolina,50,2,sim,ativo
+B-V01,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2022,propria,diesel_s10,150,2,sim,ativo
+B-V02,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2020,propria,diesel_s10,150,2,sim,ativo
+B-V03,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2020,propria,diesel_s10,150,2,sim,ativo
+B-V04,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2020,propria,diesel_s10,150,2,sim,ativo
+B-V05,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2019,propria,diesel_s10,150,2,sim,ativo
+B-V05,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2019,propria,diesel_s10,150,2,sim,ativo
+B-V06,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2019,propria,diesel_s10,150,2,sim,ativo
+B-V07,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2023,propria,diesel_s10,150,2,sim,ativo
+B-V08,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2019,propria,diesel_s10,150,2,sim,ativo
+B-V09,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2018,propria,diesel_s10,150,2,sim,ativo
+B-V10,EMP-B,FRO-B1,Distribuição regional,VUC,medio,distribuicao_regional,2018,propria,diesel_s10,150,2,sim,ativo
+B-V11,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2012,propria,diesel_s10,275,2,sim,ativo
+B-V12,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2013,propria,diesel_s10,275,2,sim,ativo
+B-V13,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2012,propria,diesel_s10,275,2,sim,ativo
+B-V14,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2013,propria,diesel_s10,275,2,sim,ativo
+B-V15,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2017,propria,diesel_s10,275,2,sim,ativo
+B-V16,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2021,propria,diesel_s10,275,2,sim,ativo
+B-V17,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2020,propria,diesel_s10,275,2,sim,ativo
+B-V18,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2018,propria,diesel_s10,275,2,sim,ativo
+B-V19,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2019,propria,diesel_s10,275,2,sim,ativo
+B-V20,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2020,propria,diesel_s10,275,2,sim,ativo
+B-V21,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2018,propria,diesel_s10,275,2,sim,ativo
+B-V22,EMP-B,FRO-B1,Distribuição regional,CAM_TOCO,medio,distribuicao_regional,2020,propria,diesel_s10,275,2,sim,ativo
+B-V23,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2021,propria,gasolina,55,2,sim,ativo
+B-V24,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2020,propria,gasolina,55,2,sim,ativo
+B-V25,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2022,propria,gasolina,55,2,sim,ativo
+B-V26,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2019,propria,gasolina,55,2,sim,ativo
+B-V27,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2020,propria,gasolina,55,2,sim,ativo
+B-V28,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2020,propria,gasolina,55,2,sim,ativo
+B-V29,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2021,propria,gasolina,55,2,sim,ativo
+B-V30,EMP-B,FRO-B1,Distribuição regional,UTIL_LEVE,leve,distribuicao_regional,2020,propria,gasolina,55,2,sim,ativo
+C-V01,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2020,propria,diesel_s10,600,6,sim,ativo
+C-V02,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2018,propria,diesel_s10,600,6,sim,ativo
+C-V03,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2017,propria,diesel_s10,600,6,sim,ativo
+C-V04,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2019,propria,diesel_s10,600,6,sim,ativo
+C-V05,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2022,propria,diesel_s10,600,6,sim,ativo
+C-V06,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2019,propria,diesel_s10,600,6,sim,ativo
+C-V07,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2022,propria,diesel_s10,600,6,sim,ativo
+C-V08,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2019,propria,diesel_s10,600,6,sim,ativo
+C-V09,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,sim,ativo
+C-V10,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2022,propria,diesel_s10,600,6,sim,ativo
+C-V11,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,nao,ativo
+C-V12,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2018,propria,diesel_s10,600,6,nao,ativo
+C-V13,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,sim,ativo
+C-V14,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2020,propria,diesel_s10,600,6,sim,ativo
+C-V15,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,sim,ativo
+C-V16,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2018,propria,diesel_s10,600,6,sim,ativo
+C-V17,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2020,propria,diesel_s10,600,6,sim,ativo
+C-V18,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2023,propria,diesel_s10,600,6,sim,ativo
+C-V19,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2022,propria,diesel_s10,600,6,sim,ativo
+C-V20,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2016,propria,diesel_s10,600,6,sim,ativo
+C-V21,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2018,propria,diesel_s10,600,6,sim,ativo
+C-V22,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,sim,ativo
+C-V23,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2022,propria,diesel_s10,600,6,sim,ativo
+C-V24,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,sim,ativo
+C-V25,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,600,6,sim,ativo
+C-V26,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2020,propria,diesel_s10,600,6,sim,ativo
+C-V27,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2023,propria,diesel_s10,600,6,sim,ativo
+C-V28,EMP-C,FRO-C1,Rodoviário de longa distância,CAV_SEMI,pesado,rodoviario_longa_distancia,2023,propria,diesel_s10,600,6,sim,ativo
+C-V29,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2016,propria,diesel_s10,300,3,sim,ativo
+C-V30,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2018,propria,diesel_s10,300,3,sim,ativo
+C-V31,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2019,propria,diesel_s10,300,3,nao,ativo
+C-V32,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2017,propria,diesel_s10,300,3,nao,ativo
+C-V33,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,300,3,sim,ativo
+C-V34,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2019,propria,diesel_s10,300,3,sim,ativo
+C-V35,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2022,propria,diesel_s10,300,3,sim,ativo
+C-V36,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2021,propria,diesel_s10,300,3,sim,ativo
+C-V37,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2015,propria,diesel_s10,300,3,sim,ativo
+C-V38,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2018,propria,diesel_s10,300,3,sim,ativo
+C-V39,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2019,propria,diesel_s10,300,3,sim,ativo
+C-V40,EMP-C,FRO-C1,Rodoviário de longa distância,CAM_TRUCK,pesado,rodoviario_longa_distancia,2015,propria,diesel_s10,300,3,sim,ativo

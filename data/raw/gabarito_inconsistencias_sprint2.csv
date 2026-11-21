@@ -1,0 +1,22 @@
+tipo,arquivo,registro,descricao
+registro_duplicado,cadastro/cadastro_frota.csv,B-V05,Veículo cadastrado duas vezes (mesma linha)
+data_invalida,combustivel/abastecimentos_cartao.csv,DSP-C-002082,Data '31/02/2026 10:15' não existe no calendário
+data_invalida,combustivel/abastecimentos_cartao.csv,DSP-C-007751,Data '00/01/2026 08:40' não existe no calendário
+data_invalida,combustivel/abastecimentos_cartao.csv,DSP-C-008071,Data '2026-14-03 17:20' não existe no calendário
+campo_obrigatorio_vazio,combustivel/abastecimentos_cartao.csv,DSP-C-005729,Veículo em branco
+campo_obrigatorio_vazio,combustivel/abastecimentos_cartao.csv,DSP-C-004516,Veículo em branco
+unidade_incompativel,combustivel/abastecimentos_cartao.csv,DSP-A-000201,Preço e valor exportados em centavos (100 vezes o valor em reais)
+unidade_incompativel,combustivel/abastecimentos_cartao.csv,DSP-A-000181,Preço e valor exportados em centavos (100 vezes o valor em reais)
+unidade_incompativel,combustivel/abastecimentos_cartao.csv,DSP-A-000065,Preço e valor exportados em centavos (100 vezes o valor em reais)
+unidade_incompativel,combustivel/abastecimentos_cartao.csv,DSP-A-000435,Preço e valor exportados em centavos (100 vezes o valor em reais)
+arquivo_reenviado,combustivel/abastecimentos_cartao_reenvio_EMP-B_2026-03.csv,(arquivo inteiro),161 transações de mar/2026 da EMP-B já presentes no extrato principal
+campo_obrigatorio_vazio,pedagio/extrato_tag_EMP-B.txt,DSP-B-006936,Valor da passagem em branco
+campo_obrigatorio_vazio,pedagio/extrato_tag_EMP-B.txt,DSP-B-008467,Valor da passagem em branco
+linha_ilegivel,pedagio/extrato_tag_EMP-C.txt,DSP-C-007372,Linha truncada: separadores perdidos na exportação
+veiculo_inexistente,manutencao/ordens_servico.json,DSP-B-005675,Veículo B-V99 não existe no cadastro (original B-V11)
+valor_negativo,manutencao/ordens_servico.json,DSP-C-004258,Item de mão de obra com sinal invertido
+data_invalida,financeiro/lancamentos_erp.csv,DSP-B-010621,Competência inicial '13/2025'
+data_invalida,financeiro/lancamentos_erp.csv,DSP-B-010867,Competência inicial '13/2025'
+registro_duplicado,financeiro/lancamentos_erp.csv,DSP-C-009602,Lançamento repetido
+unidade_incompativel,operacao/quilometragem_telematica.json,C-V32|2026-04,Distância enviada em milímetros (1.000 vezes o valor em metros)
+valor_negativo,operacao/quilometragem_telematica.json,B-V03|2025-08,Distância negativa

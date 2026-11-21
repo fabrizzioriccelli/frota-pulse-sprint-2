@@ -1,0 +1,54 @@
+[
+ {
+  "t": 14.385,
+  "nome": "projeto carregado"
+ },
+ {
+  "t": 14.522,
+  "nome": "clique em iniciar (compilação)"
+ },
+ {
+  "t": 16.032,
+  "nome": "simulação iniciada"
+ },
+ {
+  "t": 23.119,
+  "nome": "modo SENSORES: leituras normais, LED verde"
+ },
+ {
+  "t": 23.942,
+  "nome": "rotação no máximo: RPM_ALTO, LED amarelo"
+ },
+ {
+  "t": 30.932,
+  "nome": "temperatura 120 °C: TEMP_ALTA, LED vermelho e buzzer"
+ },
+ {
+  "t": 38.758,
+  "nome": "rotação e temperatura normalizadas"
+ },
+ {
+  "t": 44.791,
+  "nome": "velocidade acima de 110 km/h: VEL_EXCESSO"
+ },
+ {
+  "t": 51.848,
+  "nome": "velocidade normalizada"
+ },
+ {
+  "t": 55.521,
+  "nome": "combustível abaixo de 15%: COMB_BAIXO"
+ },
+ {
+  "t": 62.374,
+  "nome": "botão Modo: ROTEIRO"
+ },
+ {
+  "t": 83.158,
+  "nome": "botão Veículo: B-V12"
+ },
+ {
+  "t": 104.016,
+  "nome": "botão Veículo: C-V07"
+ }
+]

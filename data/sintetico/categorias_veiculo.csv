@@ -1,0 +1,7 @@
+categoria_id,descricao,combustivel_padrao,eixos,eixos_suspensiveis,capacidade_tanque_l,classe_peso
+LEVE_PASSEIO,Automóvel de passageiros (flex; abastecido com gasolina na simulação),gasolina,2,0,50,leve
+UTIL_LEVE,Utilitário leve ou furgão (flex; abastecido com gasolina na simulação),gasolina,2,0,55,leve
+VUC,Veículo urbano de carga,diesel_s10,2,0,150,medio
+CAM_TOCO,Caminhão toco (2 eixos),diesel_s10,2,0,275,medio
+CAM_TRUCK,Caminhão truck (3 eixos),diesel_s10,3,1,300,pesado
+CAV_SEMI,"Cavalo mecânico 6x2 com semirreboque (6 eixos no conjunto, tratado como uma unidade de custo)",diesel_s10,6,2,600,pesado

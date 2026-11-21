@@ -1,0 +1,16 @@
+veiculo_id,nome_grupo,custo_km,ref_custo_km,gap_custo_km,gap_custo_km_pct
+B-V28,Leve mista (utilitário),3.1298,1.4105,1.7193,121.8954
+B-V29,Leve mista (utilitário),2.9934,1.4105,1.5829,112.2239
+B-V30,Leve mista (utilitário),2.5299,1.4105,1.1194,79.3665
+B-V02,Média mista (VUC),2.2027,1.8549,0.3478,18.7474
+C-V30,Pesada rodoviária (truck),2.9327,2.5352,0.3975,15.6772
+B-V01,Média mista (VUC),2.1431,1.8549,0.2882,15.5374
+C-V38,Pesada rodoviária (truck),2.8802,2.5352,0.3450,13.6065
+C-V10,Pesada rodoviária (cavalo mecânico),4.1576,3.6936,0.4640,12.5611
+B-V05,Média mista (VUC),2.0432,1.8549,0.1882,10.1485
+B-V11,Média mista (caminhão toco),2.3347,2.1453,0.1894,8.8269
+C-V33,Pesada rodoviária (truck),2.7477,2.5352,0.2125,8.3833
+C-V32,Pesada rodoviária (truck),2.7417,2.5352,0.2065,8.1458
+B-V21,Média mista (caminhão toco),2.3018,2.1453,0.1565,7.2957
+B-V12,Média mista (caminhão toco),2.2979,2.1453,0.1526,7.1141
+C-V03,Pesada rodoviária (cavalo mecânico),3.8945,3.6936,0.2009,5.4396

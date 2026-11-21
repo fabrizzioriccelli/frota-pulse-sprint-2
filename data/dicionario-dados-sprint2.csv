@@ -1,0 +1,104 @@
+arquivo_ou_tabela,campo,descricao,tipo,unidade,obrigatorio,exemplo,se_ausente
+data/raw/cadastro/cadastro_frota.csv,codigo_veiculo,Identificador comum do veículo em todas as fontes,texto,-,Sim,B-V23,Linha rejeitada
+data/raw/cadastro/cadastro_frota.csv,empresa,Empresa cliente (fictícia),texto,-,Sim,EMP-B,-
+data/raw/cadastro/cadastro_frota.csv,codigo_frota,Código da frota (centro de custo no ERP),texto,-,Sim,FRO-B1,-
+data/raw/cadastro/cadastro_frota.csv,frota,Nome da frota,texto,-,Não,Distribuição regional,-
+data/raw/cadastro/cadastro_frota.csv,categoria,Tipo de veículo,texto,-,Sim,UTIL_LEVE,Sem grupo de comparação
+data/raw/cadastro/cadastro_frota.csv,porte,"Classe de peso: leve, medio ou pesado",texto,-,Sim,leve,Sem grupo
+data/raw/cadastro/cadastro_frota.csv,modalidade_operacional,"Perfil de operação: urbana_servicos, distribuicao_regional, rodoviario_longa_distancia",texto,-,Sim,distribuicao_regional,Sem grupo
+data/raw/cadastro/cadastro_frota.csv,ano_fabricacao,Ano de fabricação,inteiro,ano,Sim,2020,-
+data/raw/cadastro/cadastro_frota.csv,propriedade,propria ou locada,texto,-,Sim,propria,-
+data/raw/cadastro/cadastro_frota.csv,combustivel,Combustível do veículo,texto,-,Sim,gasolina,Regra Q11 não é aplicada
+data/raw/cadastro/cadastro_frota.csv,capacidade_tanque_l,Capacidade do tanque,decimal,L,Sim,55,Regra Q08 não é aplicada
+data/raw/cadastro/cadastro_frota.csv,eixos,Número de eixos,inteiro,-,Não,2,-
+data/raw/cadastro/cadastro_frota.csv,possui_tag,Tem tag de pedágio,texto,sim/nao,Não,sim,-
+data/raw/cadastro/cadastro_frota.csv,situacao,"ativo, inativo ou vendido",texto,-,Sim,ativo,-
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),ID_TRANSACAO,Identificador da transação no cartão,texto,-,Sim,DSP-B-000760,-
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),TIPO_LANCAMENTO,COMPRA ou ESTORNO (estorno pode ser negativo),texto,-,Sim,COMPRA,-
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),DATA_HORA,Data e hora do abastecimento,data dd/mm/aaaa hh:mm,-,Sim,01/07/2025 06:53,Quarentena (Q05)
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),VEICULO,Código do veículo,texto,-,Sim,B-V23,Quarentena (Q03)
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),PRODUTO,Combustível,texto,-,Sim,GASOLINA COMUM,-
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),LITROS,"Volume abastecido, decimal com vírgula",decimal,L,Sim,"39,28",Imputado = valor / preço (Q09)
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),PRECO_LITRO,Preço por litro,decimal,R$/L,Sim,"6,348",Regra Q07 não é aplicada
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),VALOR_TOTAL,Valor cobrado,decimal,R$,Sim,"249,35",Quarentena (Q03)
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),ODOMETRO_KM,Hodômetro no abastecimento,inteiro,km,Não,265975,Não usado
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),POSTO,Código do posto,texto,-,Não,POSTO-B014,-
+data/raw/combustivel/abastecimentos_cartao*.csv (separador ;),REDE_CONVENIADA,Posto da rede negociada,texto,S/N,Não,N,-
+data/raw/combustivel/notas_fiscais_combustivel.json,chave_nfe,Identificação da NF-e,texto,-,Sim,NF-F90A3E,Conciliada com o cartão (Q02)
+data/raw/combustivel/notas_fiscais_combustivel.json,veiculo,Veículo,texto,-,Sim,C-V12,Conciliada com o cartão (Q02)
+data/raw/combustivel/notas_fiscais_combustivel.json,emissao,Data e hora,data ISO,-,Sim,2026-05-23T13:25,Conciliada com o cartão (Q02)
+data/raw/combustivel/notas_fiscais_combustivel.json,quantidade_l,Litros,decimal,L,Sim,410.67,Conciliada com o cartão (Q02)
+data/raw/combustivel/notas_fiscais_combustivel.json,valor_unitario,Preço por litro,decimal,R$/L,Sim,6.105,Conciliada com o cartão (Q02)
+data/raw/combustivel/notas_fiscais_combustivel.json,valor_total,Valor da nota,decimal,R$,Sim,2507.14,Conciliada com o cartão (Q02)
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),TRANSACAO,Identificador da passagem,texto,-,Sim,DSP-B-000208,-
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),DATA_HORA,Data e hora,data dd/mm/aaaa hh:mm,-,Sim,01/07/2025 05:16,Quarentena (Q05)
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),VEICULO,Veículo,texto,-,Sim,B-V09,Quarentena (Q03)
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),CONCESSIONARIA,Concessionária,texto,-,Não,CONC-01,-
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),PRACA,Praça de pedágio,texto,-,Sim,PRACA-B01,-
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),EIXOS,Eixos cobrados,inteiro,-,Não,2,-
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),PAGADOR,PROPRIO ou EMBARCADOR (VALE-PEDAGIO): este não é custo da frota,texto,-,Sim,PROPRIO,-
+data/raw/pedagio/extrato_tag_*.txt (campos separados por ' | '),VALOR,Valor da passagem,texto R$,R$,Sim,"R$ 22,06",Quarentena (Q03)
+data/raw/manutencao/ordens_servico.json,numero_os,Número da ordem de serviço,texto,-,Sim,DSP-C-000156,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,veiculo,Veículo,texto,-,Sim,C-V07,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,data_entrada,Data de entrada na oficina,data ISO,-,Sim,2025-07-02,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,tipo_servico,"revisão, reparo, pneus...",texto,-,Sim,reparo,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,natureza,"preventiva, corretiva, pneus ou funilaria_sinistro",texto,-,Sim,corretiva,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,sistema,Sistema do veículo,texto,-,Não,eletrica,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,odometro_km,Hodômetro,inteiro,km,Não,66665,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,oficina,Oficina,texto,-,Não,OFIC-C03,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,dias_parado,Dias fora de operação,inteiro,dias,Não,3,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,itens[].descricao,Descrição do item,texto,-,Sim,Mão de obra,Item negativo: quarentena (Q06)
+data/raw/manutencao/ordens_servico.json,itens[].valor,Valor do item (somado por ordem),decimal,R$,Sim,1369.15,Item negativo: quarentena (Q06)
+data/raw/multas/notificacoes_multas.json,auto_infracao,Auto de infração (pseudônimo),texto,-,Sim,AIT-A907836F,-
+data/raw/multas/notificacoes_multas.json,id_lancamento,Identificador do lançamento,texto,-,Sim,DSP-B-000920,-
+data/raw/multas/notificacoes_multas.json,veiculo,Veículo,texto,-,Sim,B-V30,-
+data/raw/multas/notificacoes_multas.json,tipo,Infração de trânsito ou NIC (não indicação do condutor),texto,-,Sim,Infração de trânsito,-
+data/raw/multas/notificacoes_multas.json,gravidade,"leve, media, grave, gravissima",texto,-,Sim,grave,-
+data/raw/multas/notificacoes_multas.json,data_notificacao,Data da notificação (define a competência),data ISO,-,Sim,2025-08-15,-
+data/raw/multas/notificacoes_multas.json,valor_original,Valor da multa,decimal,R$,Sim,195.23,-
+data/raw/multas/notificacoes_multas.json,valor_pago,Valor pago (custo considerado),decimal,R$,Sim,156.18,-
+data/raw/multas/notificacoes_multas.json,data_pagamento,Data do pagamento,data ISO,-,Não,2025-09-15,-
+data/raw/multas/notificacoes_multas.json,situacao,"paga, aberta, em_recurso, cancelada",texto,-,Sim,paga,-
+data/raw/financeiro/lancamentos_erp.csv,documento,Documento contábil,texto,-,Sim,DSP-B-010538,-
+data/raw/financeiro/lancamentos_erp.csv,data_lancamento,Data do lançamento,data ISO,-,Sim,2025-01-15,Quarentena (Q05)
+data/raw/financeiro/lancamentos_erp.csv,conta,Conta contábil (define a categoria pelo texto),texto,-,Sim,IPVA,Outros
+data/raw/financeiro/lancamentos_erp.csv,historico,Histórico do lançamento,texto,-,Não,IPVA 2025 parcela 1/3,-
+data/raw/financeiro/lancamentos_erp.csv,centro_custo,Veículo ou frota (custo de frota é rateado entre os veículos),texto,-,Sim,B-V01,Quarentena (Q03)
+data/raw/financeiro/lancamentos_erp.csv,valor,Valor,decimal,R$,Sim,1177.28,Quarentena (Q03)
+data/raw/financeiro/lancamentos_erp.csv,competencia_inicial,Primeiro mês de competência,texto mm/aaaa,-,Sim,01/2025,Quarentena (Q05)
+data/raw/financeiro/lancamentos_erp.csv,competencia_final,Último mês de competência,texto mm/aaaa,-,Sim,12/2025,Quarentena (Q05)
+data/raw/operacao/quilometragem_telematica.json,veiculo,Veículo,texto,-,Sim,A-V01,-
+data/raw/operacao/quilometragem_telematica.json,mes,Competência,texto AAAA-MM,-,Sim,2025-10,-
+data/raw/operacao/quilometragem_telematica.json,distancia_m,"Distância percorrida no mês, em METROS (convertida para km)",inteiro,m,Sim,2879800,Indicadores por km não calculados no mês (Q14)
+data/raw/operacao/quilometragem_telematica.json,dias_operacao,Dias em operação no mês,inteiro,dias,Sim,21,-
+data/raw/operacao/quilometragem_telematica.json,fonte,telemetria ou odometro_abastecimento,texto,-,Não,telemetria,-
+data/telemetria/telemetria_esp32.csv,timestamp_s,Segundos desde o início da amostra,inteiro,s,Sim,60,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,veiculo_id,Veículo monitorado,texto,-,Sim,C-V07,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,competencia,Mês de referência,texto AAAA-MM,-,Sim,2026-03,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,modo,"lote, sensores ou roteiro",texto,-,Sim,lote,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,leitura,Número da leitura na amostra (1 a 60),inteiro,-,Sim,2,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,velocidade_kmh,Velocidade,decimal,km/h,Sim,75.3,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,rpm,Rotação do motor,inteiro,RPM,Sim,1718,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,temperatura_c,Temperatura do líquido de arrefecimento,decimal,°C,Sim,90.0,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,nivel_combustivel_pct,Nível de combustível,decimal,%,Sim,54.8,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,alertas,Códigos de alerta separados por |,texto,-,Não,RPM_ALTO|VEL_EXCESSO,Rotação incoerente descartada (Q16)
+data/telemetria/telemetria_esp32.csv,status,"NORMAL, ATENCAO ou CRITICO",texto,-,Sim,NORMAL,Rotação incoerente descartada (Q16)
+data/processed/base_consolidada_veiculo_mes.csv,veiculo_id,Veículo,texto,-,Sim,B-V23,-
+data/processed/base_consolidada_veiculo_mes.csv,competencia,Mês,texto AAAA-MM,-,Sim,2026-01,-
+data/processed/base_consolidada_veiculo_mes.csv,empresa_id,Empresa,texto,-,Sim,EMP-B,-
+data/processed/base_consolidada_veiculo_mes.csv,grupo,Grupo de comparação,texto,-,Sim,LEVE_MISTA_UTILITARIO,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_combustivel,Custo de combustível rateado no mês,decimal,R$,Sim,1405.72,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_manutencao,Custo de manutenção,decimal,R$,Sim,661.76,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_pedagio,Custo de pedágio pago pela frota,decimal,R$,Sim,221.28,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_multas,Custo de multas,decimal,R$,Sim,0.00,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_impostos,IPVA e licenciamento rateados,decimal,R$,Sim,141.15,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_outros,"Seguro, locação, lavagem, estacionamento, rastreamento",decimal,R$,Sim,639.32,-
+data/processed/base_consolidada_veiculo_mes.csv,custo_total,Soma das seis categorias,decimal,R$,Sim,3069.23,-
+data/processed/base_consolidada_veiculo_mes.csv,litros,Litros abastecidos no mês,decimal,L,Sim,218.49,-
+data/processed/base_consolidada_veiculo_mes.csv,km,Quilometragem tratada do mês,decimal,km,Sim,2121.20,-
+data/processed/base_consolidada_veiculo_mes.csv,pct_rpm_acima_verde,% das leituras em movimento com rotação acima da faixa econômica,decimal,%,Sim,47.50,-
+data/processed/base_consolidada_veiculo_mes.csv,pct_marcha_lenta,% das leituras com veículo parado e motor ligado,decimal,%,Sim,1.70,-
+data/processed/base_consolidada_veiculo_mes.csv,pct_excesso_velocidade,% das leituras acima do limite de velocidade,decimal,%,Sim,0.00,-
+data/processed/base_consolidada_veiculo_mes.csv,alertas_temperatura,Leituras com temperatura acima do limite,inteiro,-,Sim,0.00,-
+data/processed/base_consolidada_veiculo_mes.csv,temperatura_max_c,Temperatura máxima da amostra,decimal,°C,Sim,90.70,-
+data/processed/base_consolidada_veiculo_mes.csv,idade_anos,Idade do veículo no mês,inteiro,anos,Sim,5,-

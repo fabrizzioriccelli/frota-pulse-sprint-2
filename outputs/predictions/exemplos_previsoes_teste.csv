@@ -1,0 +1,13 @@
+veiculo_id,competencia,nome_grupo,rotulo,previsao_ml,prob_ineficiente_ml,resultado,gap_custo_km_pct,gap_km_l_pct,pct_marcha_lenta,pct_rpm_acima_verde,pct_excesso_velocidade,grupo_LEVE_MISTA_UTILITARIO,idade_anos
+B-V08,2025-07,Média mista (VUC),0,0,0.0780,correta,4.4863,0.9583,1.7000,10.2000,0.0000,0,6
+B-V08,2025-10,Média mista (VUC),0,0,0.0780,correta,-11.4420,0.4815,6.7000,17.9000,1.7000,0,6
+B-V08,2026-03,Média mista (VUC),0,0,0.0780,correta,-8.5368,-1.8551,8.3000,16.4000,1.7000,0,7
+B-V05,2025-07,Média mista (VUC),1,1,0.8880,correta,-4.4863,7.8484,11.7000,35.8000,6.7000,0,6
+B-V05,2025-12,Média mista (VUC),1,1,0.8880,correta,0.0000,10.4311,13.3000,38.5000,5.0000,0,6
+B-V05,2026-02,Média mista (VUC),1,1,0.8880,correta,7.3098,8.5192,18.3000,37.5000,8.3000,0,7
+B-V05,2025-10,Média mista (VUC),0,1,0.6770,incorreta,-11.5488,4.3518,16.7000,20.0000,1.7000,0,6
+B-V09,2025-08,Média mista (VUC),0,1,0.6770,incorreta,37.0172,-5.7881,20.0000,20.8000,0.0000,0,7
+B-V20,2025-11,Média mista (caminhão toco),0,1,0.6770,incorreta,-16.9771,-6.4756,16.7000,24.0000,3.3000,0,5
+B-V05,2026-06,Média mista (VUC),1,0,0.4830,incorreta,136.4903,11.0805,10.0000,35.8000,10.0000,0,7
+C-V21,2025-11,Pesada rodoviária (cavalo mecânico),1,0,0.4830,incorreta,-7.6039,9.6618,8.3000,45.5000,10.0000,0,7
+C-V30,2026-05,Pesada rodoviária (truck),1,0,0.4830,incorreta,3.5032,16.3079,8.3000,52.7000,13.3000,0,8

@@ -1,0 +1,16 @@
+veiculo_id,nome_grupo,km_l,ref_km_l,gap_km_l,gap_km_l_pct
+C-V33,Pesada rodoviária (truck),3.0724,3.5551,0.4827,13.5779
+C-V30,Pesada rodoviária (truck),3.1028,3.5551,0.4523,12.7219
+B-V19,Média mista (caminhão toco),4.0022,4.5823,0.5801,12.6598
+C-V38,Pesada rodoviária (truck),3.1214,3.5551,0.4337,12.1981
+C-V32,Pesada rodoviária (truck),3.1730,3.5551,0.3821,10.7479
+B-V06,Média mista (VUC),5.7045,6.3588,0.6543,10.2890
+B-V02,Média mista (VUC),5.7260,6.3588,0.6328,9.9517
+C-V07,Pesada rodoviária (cavalo mecânico),2.1556,2.3907,0.2351,9.8331
+B-V05,Média mista (VUC),5.7516,6.3588,0.6072,9.5485
+B-V15,Média mista (caminhão toco),4.2110,4.5823,0.3714,8.1046
+C-V10,Pesada rodoviária (cavalo mecânico),2.1971,2.3907,0.1936,8.0985
+C-V22,Pesada rodoviária (cavalo mecânico),2.2001,2.3907,0.1905,7.9693
+C-V03,Pesada rodoviária (cavalo mecânico),2.2209,2.3907,0.1697,7.1002
+C-V19,Pesada rodoviária (cavalo mecânico),2.2239,2.3907,0.1667,6.9743
+C-V05,Pesada rodoviária (cavalo mecânico),2.2494,2.3907,0.1413,5.9097
