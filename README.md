@@ -81,7 +81,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 | Repositório da Sprint 2 (privado) | https://github.com/fabrizzioriccelli/1TIAO-ENTERPRISE-CHALLENGE-SPRINT-2 |
 | Repositório da Sprint 1 (privado) | https://github.com/fabrizzioriccelli/1TIAO-ENTERPRISE-CHALLENGE- |
 | Vídeo da Sprint 2 | Pendente: ainda não publicado |
-| Execução no Wokwi | Gravação e capturas em [docs/evidencias/wokwi/](docs/evidencias/wokwi/). O link público do projeto depende de salvá-lo numa conta do Wokwi ([como abrir](docs/telemetria-esp32.md#como-abrir-o-projeto-no-wokwi)) |
+| Execução no Wokwi | Gravação, capturas e Monitor Serial em [docs/evidencias/wokwi/](docs/evidencias/wokwi/) ([como abrir o projeto](docs/telemetria-esp32.md#como-abrir-o-projeto-no-wokwi)) |
 | Kanban da Sprint 2 | [docs/kanban-sprint2.csv](docs/kanban-sprint2.csv) |
 | Vídeo da Sprint 1 (YouTube, não listado) | https://youtu.be/MD6aKeIHl-Y (narração de Bruna Collavite) |
 
