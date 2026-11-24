@@ -105,3 +105,7 @@ tests/             pytest suite
 - Everything runs on simulated data, so the numbers demonstrate the method, not real fleets.
 - Re-running the pipeline changes a few values at the last decimal place in three output files and the timings in the log; the metrics and the diagnosis do not change.
 - Savings in reais, recommendations and reading PDFs and images are planned for Sprint 3.
+
+## My part
+
+I built the technical work in this repository end to end, with Claude Code as my coding assistant: the simulated raw sources and their inconsistencies, the ingestion, normalization and data-quality pipeline, the indicators, benchmark and rule-based diagnosis, the decision-tree model, the ESP32 firmware with its Wokwi and native builds, the test suite and this documentation. The Sprint 2 video is narrated by Natasha Zonta.
