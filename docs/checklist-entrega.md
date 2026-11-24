@@ -24,7 +24,7 @@ Situação conferida em 21/11/2026. Um item só está "Atendido" quando há evid
 | 18 | Dicionário de dados da Sprint 2 | Atendido | `data/dicionario-dados-sprint2.csv` |
 | 19 | Kanban da Sprint 2 com responsável, status, prioridade, dependências, entregável e pendências da Sprint 3 | Atendido | [kanban-sprint2.csv](kanban-sprint2.csv) |
 | 20 | Roteiro, storyboard, versão-base limpa e versão demonstrativa do vídeo | Atendido fora do repositório | Entregues ao grupo como arquivos; o material de vídeo não fica no GitHub por decisão do grupo |
-| 21 | Vídeo narrado de até 5 minutos publicado no YouTube como não listado | Atendido | https://youtu.be/qQmlMtQE0gA; cópia de 4 min 56 s em [docs/video/](video/video-enterprise-challenge-sprint2.mp4) |
+| 21 | Vídeo narrado de até 5 minutos publicado no YouTube como não listado | Atendido | https://youtu.be/qQmlMtQE0gA, narrado por Natasha Zonta; cópia de 4 min 56 s em [docs/video/](video/video-enterprise-challenge-sprint2.mp4) |
 | 22 | Arquivo .txt com os links do repositório e do vídeo | Atendido | `ENTREGA_SPRINT2_LINKS.txt` |
 | 23 | Repositório privado só da Sprint 2, com acesso de `fiap-tutoria` e dos integrantes | **Pendente** | Os convites precisam ser enviados neste repositório novo (aceite em até 7 dias) |
 | 24 | Revisão do grupo e entrega no portal da FIAP | **Pendente** | Ação do grupo |
