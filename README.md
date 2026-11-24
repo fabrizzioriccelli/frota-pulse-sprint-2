@@ -87,7 +87,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 | Vídeo da Sprint 2 (YouTube, não listado) | https://youtu.be/qQmlMtQE0gA (narração de Natasha Zonta) · cópia no repositório: [docs/video/video-enterprise-challenge-sprint2.mp4](docs/video/video-enterprise-challenge-sprint2.mp4) (4 min 56 s) |
 | Execução no Wokwi | Gravação, capturas e Monitor Serial em [docs/evidencias/wokwi/](docs/evidencias/wokwi/) ([como abrir o projeto](docs/telemetria-esp32.md#como-abrir-o-projeto-no-wokwi)) |
 | Kanban da Sprint 2 | [docs/kanban-sprint2.csv](docs/kanban-sprint2.csv) |
-| Vídeo da Sprint 1 (YouTube, não listado) | https://youtu.be/MD6aKeIHl-Y (narração de Bruna Collavite) |
+| Vídeo da Sprint 1 (YouTube, não listado) | https://youtu.be/MD6aKeIHl-Y (narração de Natasha Zonta) |
 
 ### Explicação de decisões técnicas
 
