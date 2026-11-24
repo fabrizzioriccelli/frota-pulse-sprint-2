@@ -12,6 +12,8 @@
 
 # ENTERPRISE CHALLENGE - SEM PARAR EMPRESAS
 
+<p align="center"><b>Português</b> · <a href="README.en.md">English</a></p>
+
 ## 👨‍🎓 Integrantes: 
 - <a href="https://github.com/brunacollavite">Bruna Collavite</a> - RM 576285
 - <a href="https://github.com/Guntooo">Fabio Guntovitch</a> - RM 575582
